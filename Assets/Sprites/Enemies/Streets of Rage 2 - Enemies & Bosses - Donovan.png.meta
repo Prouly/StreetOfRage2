@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: e349274477653824f84c8b694faa3d6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -899394719758174791
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_0
+  - first:
+      213: 7573339381167033056
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_1
+  - first:
+      213: -4615944496014528210
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_2
+  - first:
+      213: 2215744122179184764
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_3
+  - first:
+      213: -6081021883660298581
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_4
+  - first:
+      213: -8815581334222701885
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_5
+  - first:
+      213: -1587816894223330184
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_6
+  - first:
+      213: -5959491113332979862
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_7
+  - first:
+      213: -4526238341596492423
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_8
+  - first:
+      213: -4278050363174356621
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_9
+  - first:
+      213: 8283944183709521342
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_10
+  - first:
+      213: -8189238497809947014
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_11
+  - first:
+      213: -2055427271116469985
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_12
+  - first:
+      213: -6171112678555763872
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_13
+  - first:
+      213: -8603932608187866960
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_14
+  - first:
+      213: -5029353222907065010
+    second: Streets of Rage 2 - Enemies & Bosses - Donovan_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 119
+        width: 47
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5b3ff7445b483f0800000000000000
+      internalID: -899394719758174791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 121
+        width: 39
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea00f9ba08e91960800000000000000
+      internalID: 7573339381167033056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 120
+        width: 39
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21722cefeed0ffb0800000000000000
+      internalID: -4615944496014528210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 121
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7866a32a87efbe10800000000000000
+      internalID: 2215744122179184764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 121
+        width: 44
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba61d01c0dedb9ba0800000000000000
+      internalID: -6081021883660298581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 120
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca7715cb73c8a580800000000000000
+      internalID: -8815581334222701885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 120
+        width: 79
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874547382f0f6f9e0800000000000000
+      internalID: -1587816894223330184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_7
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 120
+        width: 71
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67c0bb3862ab4da0800000000000000
+      internalID: -5959491113332979862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 121
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d436895329f21c0800000000000000
+      internalID: -4526238341596492423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 69
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379f2cb5cdf41a4c0800000000000000
+      internalID: -4278050363174356621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 13
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb55b29485b76f270800000000000000
+      internalID: 8283944183709521342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 37
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76a51589faf95e80800000000000000
+      internalID: -8189238497809947014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 12
+        width: 34
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c37b79c7a973e0800000000000000
+      internalID: -2055427271116469985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 11
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b36cdf6bdcb5aa0800000000000000
+      internalID: -6171112678555763872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 12
+        width: 34
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0ef81e0e0b89880800000000000000
+      internalID: -8603932608187866960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Donovan_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 12
+        width: 40
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d88a2f3e5243ab0800000000000000
+      internalID: -5029353222907065010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6723cd0d504b70146a64471dd46dff14
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Streets of Rage 2 - Enemies & Bosses - Donovan_0: -899394719758174791
+      Streets of Rage 2 - Enemies & Bosses - Donovan_1: 7573339381167033056
+      Streets of Rage 2 - Enemies & Bosses - Donovan_10: 8283944183709521342
+      Streets of Rage 2 - Enemies & Bosses - Donovan_11: -8189238497809947014
+      Streets of Rage 2 - Enemies & Bosses - Donovan_12: -2055427271116469985
+      Streets of Rage 2 - Enemies & Bosses - Donovan_13: -6171112678555763872
+      Streets of Rage 2 - Enemies & Bosses - Donovan_14: -8603932608187866960
+      Streets of Rage 2 - Enemies & Bosses - Donovan_15: -5029353222907065010
+      Streets of Rage 2 - Enemies & Bosses - Donovan_2: -4615944496014528210
+      Streets of Rage 2 - Enemies & Bosses - Donovan_3: 2215744122179184764
+      Streets of Rage 2 - Enemies & Bosses - Donovan_4: -6081021883660298581
+      Streets of Rage 2 - Enemies & Bosses - Donovan_5: -8815581334222701885
+      Streets of Rage 2 - Enemies & Bosses - Donovan_6: -1587816894223330184
+      Streets of Rage 2 - Enemies & Bosses - Donovan_7: -5959491113332979862
+      Streets of Rage 2 - Enemies & Bosses - Donovan_8: -4526238341596492423
+      Streets of Rage 2 - Enemies & Bosses - Donovan_9: -4278050363174356621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4370 @@
+fileFormatVersion: 2
+guid: 359df995818c6b9469f706d9222bd435
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6989916365035605644
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_0
+  - first:
+      213: 4395067684483005667
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_1
+  - first:
+      213: 8516320898659133249
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_2
+  - first:
+      213: 53506882166583817
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_3
+  - first:
+      213: -13591315313502295
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_4
+  - first:
+      213: -4706386101594383976
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_5
+  - first:
+      213: -1271741778540840608
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_6
+  - first:
+      213: -1163920650052282354
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_7
+  - first:
+      213: -4274000026443721578
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_8
+  - first:
+      213: -2158704864910982137
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_9
+  - first:
+      213: 1313497530154472238
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_10
+  - first:
+      213: 8265264370352498926
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_11
+  - first:
+      213: -2208200825050264720
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_12
+  - first:
+      213: -1313169188386580862
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_13
+  - first:
+      213: -2519908591597644481
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_14
+  - first:
+      213: 1100000072956220569
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_15
+  - first:
+      213: -5178953168980278730
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_16
+  - first:
+      213: 7587924842268745474
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_17
+  - first:
+      213: 1497955500619893958
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_18
+  - first:
+      213: 2214206141191437790
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_19
+  - first:
+      213: 2515734348166749352
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_20
+  - first:
+      213: 6472098836843245630
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_21
+  - first:
+      213: -6791914703526540900
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_22
+  - first:
+      213: -4062856789839426969
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_23
+  - first:
+      213: -3471291980175743360
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_24
+  - first:
+      213: -8015792917474977925
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_25
+  - first:
+      213: -8456986820068660089
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_26
+  - first:
+      213: -7470700914261148479
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_27
+  - first:
+      213: 1350839202106026371
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_28
+  - first:
+      213: 3532216474903859241
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_29
+  - first:
+      213: -5786902335354625515
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_30
+  - first:
+      213: -8842236144111042154
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_31
+  - first:
+      213: -4340732443925725882
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_32
+  - first:
+      213: -3056648417902378523
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_33
+  - first:
+      213: -8171162163539832954
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_34
+  - first:
+      213: 3523297284957806299
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_35
+  - first:
+      213: -176636121111523574
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_36
+  - first:
+      213: 6981112632794358754
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_37
+  - first:
+      213: -8063543052677735645
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_38
+  - first:
+      213: 7248345023253356717
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_39
+  - first:
+      213: -3777838777021945631
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_40
+  - first:
+      213: -5238528665184298120
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_41
+  - first:
+      213: 327191922035162623
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_42
+  - first:
+      213: 2737871580539799513
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_43
+  - first:
+      213: -2061314061500030743
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_44
+  - first:
+      213: -6441762199343148943
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_45
+  - first:
+      213: -6109716990485690048
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_46
+  - first:
+      213: 3580999728191251773
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_47
+  - first:
+      213: 7290010950438047610
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_48
+  - first:
+      213: -62082559129817573
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_49
+  - first:
+      213: 8282078588736134847
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_50
+  - first:
+      213: 9216534633310664143
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_51
+  - first:
+      213: -5501987342521742687
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_52
+  - first:
+      213: -1118915936556756125
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_53
+  - first:
+      213: -7592830083745373103
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_54
+  - first:
+      213: -2518086777130559920
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_55
+  - first:
+      213: -470428772882566001
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_56
+  - first:
+      213: 5405462267172823815
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_57
+  - first:
+      213: -2188079962415702018
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_58
+  - first:
+      213: -7637030021905976326
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_59
+  - first:
+      213: 3677475978485937756
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_60
+  - first:
+      213: -244009935289252246
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_61
+  - first:
+      213: 3765253262268846898
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_62
+  - first:
+      213: 8254898561304528299
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_63
+  - first:
+      213: 5860111417307413432
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_64
+  - first:
+      213: -1409772118210413728
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_65
+  - first:
+      213: -6385337384897997839
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_66
+  - first:
+      213: 2821923333577453836
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_67
+  - first:
+      213: -2342426803750987530
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_68
+  - first:
+      213: 3649123640815970139
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_69
+  - first:
+      213: -9117707410889824839
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_70
+  - first:
+      213: -1729041618731164540
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_71
+  - first:
+      213: 2409142009850038539
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_72
+  - first:
+      213: -8951120334374195110
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_73
+  - first:
+      213: -2996482721901933807
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_74
+  - first:
+      213: 1704412038789855818
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_75
+  - first:
+      213: -4803602356870176842
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_76
+  - first:
+      213: 6252311286115634714
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_77
+  - first:
+      213: 704862586086000203
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_78
+  - first:
+      213: 6083028941389760816
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_79
+  - first:
+      213: 399526499567612758
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_80
+  - first:
+      213: -3192183343115269560
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_81
+  - first:
+      213: -1962260165901326829
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_82
+  - first:
+      213: 9130734145810979564
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_83
+  - first:
+      213: 3238895280409131474
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_84
+  - first:
+      213: 2865836539370143659
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_85
+  - first:
+      213: -7877979915018905231
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_86
+  - first:
+      213: -6527730667855334359
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_87
+  - first:
+      213: -2599603681589268841
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_88
+  - first:
+      213: -5552187315444713476
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_89
+  - first:
+      213: -1216825717362273123
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_90
+  - first:
+      213: -1721532682921499594
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_91
+  - first:
+      213: 6056816478675336980
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_92
+  - first:
+      213: 1184984934026412840
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_93
+  - first:
+      213: -3096653083817321118
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_94
+  - first:
+      213: 2772000739180683630
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_95
+  - first:
+      213: -9069474471056567036
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_96
+  - first:
+      213: -7852465161440071569
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_97
+  - first:
+      213: 3790046504034058282
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_98
+  - first:
+      213: -5266020128487922022
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_99
+  - first:
+      213: -4034450989526435850
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_100
+  - first:
+      213: 789158486548173160
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_101
+  - first:
+      213: -8627759076482770831
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_102
+  - first:
+      213: -8888972699088861501
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_103
+  - first:
+      213: 1415463033107546606
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_104
+  - first:
+      213: -8086961724950709696
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_105
+  - first:
+      213: 3762555313933943372
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_106
+  - first:
+      213: -7212540221740052600
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_107
+  - first:
+      213: 8042547014896870075
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_108
+  - first:
+      213: -5945115749719514866
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_109
+  - first:
+      213: 6248006619583034070
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_110
+  - first:
+      213: 3167720317745428598
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_111
+  - first:
+      213: -7149835157277033245
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_112
+  - first:
+      213: -6953975197853979513
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_113
+  - first:
+      213: 1223010913261841990
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_114
+  - first:
+      213: -3517292479687936143
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_115
+  - first:
+      213: -8989058323770531182
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_116
+  - first:
+      213: 3268974215960713004
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_117
+  - first:
+      213: 2097275249534612257
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_118
+  - first:
+      213: 4682612496085963304
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_119
+  - first:
+      213: 480934887039962232
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_120
+  - first:
+      213: 8861131931234089538
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_121
+  - first:
+      213: -7582708330153229687
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_122
+  - first:
+      213: 3377629018582358781
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_123
+  - first:
+      213: 405074106479771705
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_124
+  - first:
+      213: 2992784099834770747
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_125
+  - first:
+      213: -8890586065491169135
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_126
+  - first:
+      213: -5012776828647607051
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_127
+  - first:
+      213: 6815701433622773914
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_128
+  - first:
+      213: 6884693611912453049
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_129
+  - first:
+      213: 8090876920092884378
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_130
+  - first:
+      213: 2996922501921916499
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_131
+  - first:
+      213: 2875156276399866509
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_132
+  - first:
+      213: 282494480735808432
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_133
+  - first:
+      213: 3733189557219429058
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_134
+  - first:
+      213: -7756750925883799238
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_135
+  - first:
+      213: -55614510454935199
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_136
+  - first:
+      213: 371803740501928255
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_137
+  - first:
+      213: 604844279107205716
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_138
+  - first:
+      213: -7447318327000887048
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_139
+  - first:
+      213: -1324948494886920780
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_140
+  - first:
+      213: -8803610372649713298
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_141
+  - first:
+      213: -8370664954189909389
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_142
+  - first:
+      213: 6269539394928725535
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_143
+  - first:
+      213: -3850084936120077721
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_144
+  - first:
+      213: 6812074167575983890
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_145
+  - first:
+      213: 2635948532504315745
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_146
+  - first:
+      213: -2055501212518137175
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_147
+  - first:
+      213: 6870563194252585244
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_148
+  - first:
+      213: -2893344072906769980
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_149
+  - first:
+      213: -6377939049439397033
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_150
+  - first:
+      213: -5281528920793797952
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_151
+  - first:
+      213: 9040931778047125849
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_152
+  - first:
+      213: 5284551561537989244
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_153
+  - first:
+      213: 6958583159523122385
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_154
+  - first:
+      213: 7837783317620179838
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_155
+  - first:
+      213: -954431854543951922
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_156
+  - first:
+      213: 6676045755436519469
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_157
+  - first:
+      213: -3525368307842957744
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_158
+  - first:
+      213: 5046327803396214333
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_159
+  - first:
+      213: 5639698389543835333
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_160
+  - first:
+      213: 7254040997564977427
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_161
+  - first:
+      213: 3300391064967329225
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_162
+  - first:
+      213: 4180556235649686084
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_163
+  - first:
+      213: 135444372219816757
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_164
+  - first:
+      213: -3237665071223044188
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_165
+  - first:
+      213: 8806049294864570532
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_166
+  - first:
+      213: 4522671943504826444
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_167
+  - first:
+      213: 6335760168155606321
+    second: Streets of Rage 2 - Playable Characters - Axel_edited_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1600
+        width: 42
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e03ab56eb210160800000000000000
+      internalID: 6989916365035605644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1600
+        width: 39
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec7861e5ca6efc30800000000000000
+      internalID: 4395067684483005667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1600
+        width: 39
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14720d56cbc003670800000000000000
+      internalID: 8516320898659133249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1600
+        width: 30
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902f390d9381eb000800000000000000
+      internalID: 53506882166583817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1600
+        width: 29
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a755be45c6bfcff0800000000000000
+      internalID: -13591315313502295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1600
+        width: 46
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89991aea6ce8faeb0800000000000000
+      internalID: -4706386101594383976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1600
+        width: 28
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069bc04279dd95ee0800000000000000
+      internalID: -1271741778540840608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1600
+        width: 28
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0854e2e55ce8dfe0800000000000000
+      internalID: -1163920650052282354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1600
+        width: 45
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694dfcdde93bfa4c0800000000000000
+      internalID: -4274000026443721578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1496
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704c218dc5dba02e0800000000000000
+      internalID: -2158704864910982137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1496
+        width: 38
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23d5326b0b7a3210800000000000000
+      internalID: 1313497530154472238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1496
+        width: 46
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8ad81572e14b270800000000000000
+      internalID: 8265264370352498926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1496
+        width: 56
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b87269c05ea51e0800000000000000
+      internalID: -2208200825050264720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1496
+        width: 84
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286da34a49fa6cde0800000000000000
+      internalID: -1313169188386580862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1496
+        width: 56
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351e5bac7c770dd0800000000000000
+      internalID: -2519908591597644481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1496
+        width: 61
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99495710d3cf34f00800000000000000
+      internalID: 1100000072956220569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1496
+        width: 28
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6320c863889a028b0800000000000000
+      internalID: -5178953168980278730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_17
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1496
+        width: 54
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f5ac50179bd4960800000000000000
+      internalID: 7587924842268745474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1496
+        width: 40
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc8acf579ec9c410800000000000000
+      internalID: 1497955500619893958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1408
+        width: 61
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd343901c07abe10800000000000000
+      internalID: 2214206141191437790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1408
+        width: 40
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac5abb8f0fa9e220800000000000000
+      internalID: 2515734348166749352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 67
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30b249f99381d950800000000000000
+      internalID: 6472098836843245630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1408
+        width: 39
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c994c8fef854eb1a0800000000000000
+      internalID: -6791914703526540900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 43
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a465c8645dd97c0800000000000000
+      internalID: -4062856789839426969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1408
+        width: 81
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08666f1f55e73dfc0800000000000000
+      internalID: -3471291980175743360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1408
+        width: 86
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77dfc0afce22c090800000000000000
+      internalID: -8015792917474977925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1408
+        width: 40
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ca5af4b4fb2aa80800000000000000
+      internalID: -8456986820068660089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1408
+        width: 47
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc3746991db25890800000000000000
+      internalID: -7470700914261148479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1408
+        width: 46
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a336e8152fb210800000000000000
+      internalID: 1350839202106026371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1304
+        width: 53
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9205d606b24f40130800000000000000
+      internalID: 3532216474903859241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1304
+        width: 63
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5122f4f7cfac0bfa0800000000000000
+      internalID: -5786902335354625515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1304
+        width: 56
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691442a33111a4580800000000000000
+      internalID: -8842236144111042154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1304
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d3bc627de92c3c0800000000000000
+      internalID: -4340732443925725882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1304
+        width: 59
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e14baf657a9495d0800000000000000
+      internalID: -3056648417902378523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1304
+        width: 74
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f88101e433a9e80800000000000000
+      internalID: -8171162163539832954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1304
+        width: 53
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde1204a63445e030800000000000000
+      internalID: 3523297284957806299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1304
+        width: 39
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f05aa32667c8df0800000000000000
+      internalID: -176636121111523574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1304
+        width: 74
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e323b6b3f4e1e060800000000000000
+      internalID: 6981112632794358754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_38
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1304
+        width: 67
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b131ae05a881090800000000000000
+      internalID: -8063543052677735645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1200
+        width: 36
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0ac70356b479460800000000000000
+      internalID: 7248345023253356717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1200
+        width: 58
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e829ece5ab629bc0800000000000000
+      internalID: -3777838777021945631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1200
+        width: 41
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b1df51fe10d47b0800000000000000
+      internalID: -5238528665184298120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1200
+        width: 48
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd784ec15b6a8400800000000000000
+      internalID: 327191922035162623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1200
+        width: 53
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d746b652bfdef520800000000000000
+      internalID: 2737871580539799513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1200
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0e5c948cdb463e0800000000000000
+      internalID: -2061314061500030743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1200
+        width: 43
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170dc9cd8634a96a0800000000000000
+      internalID: -6441762199343148943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1200
+        width: 36
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0498eef84cce53ba0800000000000000
+      internalID: -6109716990485690048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1200
+        width: 47
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d352c93a74442b130800000000000000
+      internalID: 3580999728191251773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1200
+        width: 53
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f4195d5525b2560800000000000000
+      internalID: 7290010950438047610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1080
+        width: 51
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ee15ccd30732ff0800000000000000
+      internalID: -62082559129817573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_50
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1079
+        width: 54
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe5c7b989adfe270800000000000000
+      internalID: 8282078588736134847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1080
+        width: 51
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aacb4aa9a305a3b0800000000000000
+      internalID: -5501987342521742687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1080
+        width: 73
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363d20c42efc870f0800000000000000
+      internalID: -1118915936556756125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1080
+        width: 73
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15425727449d0a690800000000000000
+      internalID: -7592830083745373103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1080
+        width: 73
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0565687ea65fd0dd0800000000000000
+      internalID: -2518086777130559920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_56
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1080
+        width: 78
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8436340683b879f0800000000000000
+      internalID: -470428772882566001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7032d99ea4f040b40800000000000000
+      internalID: 5405462267172823815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 984
+        width: 56
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effdf0cfdd062a1e0800000000000000
+      internalID: -2188079962415702018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 984
+        width: 55
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3fc4568a1d30690800000000000000
+      internalID: -7637030021905976326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 984
+        width: 56
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56bfa71be4090330800000000000000
+      internalID: 3677475978485937756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_61
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 984
+        width: 53
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a660b65b14a1d9cf0800000000000000
+      internalID: -244009935289252246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_63
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 984
+        width: 46
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba58073518a4f8270800000000000000
+      internalID: 8254898561304528299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 984
+        width: 63
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbb1dc294c435150800000000000000
+      internalID: 5860111417307413432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 984
+        width: 55
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b71df4abb7f6ce0800000000000000
+      internalID: -1409772118210413728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 984
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c013549125c792720800000000000000
+      internalID: 2821923333577453836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_68
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 984
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f891129b370e7fd0800000000000000
+      internalID: -2342426803750987530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_69
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 984
+        width: 54
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57e0501e9a44a230800000000000000
+      internalID: 3649123640815970139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 880
+        width: 31
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b527ffda65677180800000000000000
+      internalID: -9117707410889824839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 880
+        width: 27
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c99a10fc53108e0800000000000000
+      internalID: -1729041618731164540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_72
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 880
+        width: 48
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09059ec4edfe6120800000000000000
+      internalID: 2409142009850038539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 880
+        width: 46
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50b9df1b7b37c380800000000000000
+      internalID: -8951120334374195110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 880
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b807927da5a66d0800000000000000
+      internalID: -2996482721901933807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 880
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4af7fa08b947a710800000000000000
+      internalID: 1704412038789855818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_76
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 880
+        width: 57
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf16846b1d265db0800000000000000
+      internalID: -4803602356870176842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_77
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 880
+        width: 68
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e86121dfba4c650800000000000000
+      internalID: 6252311286115634714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_78
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 880
+        width: 58
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b468e1b99cc28c900800000000000000
+      internalID: 704862586086000203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 880
+        width: 87
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03905f9c7924b6450800000000000000
+      internalID: 6083028941389760816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 768
+        width: 73
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653351d0c376b8500800000000000000
+      internalID: 399526499567612758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_81
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 768
+        width: 69
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a02bf892613b3d0800000000000000
+      internalID: -3192183343115269560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_82
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 768
+        width: 91
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3166d8e86c6a4c4e0800000000000000
+      internalID: -1962260165901326829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 768
+        width: 96
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cead7933452e6be70800000000000000
+      internalID: 9130734145810979564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_85
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 768
+        width: 96
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baffd71162f75c720800000000000000
+      internalID: 2865836539370143659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 768
+        width: 84
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179d2a1b10bcba290800000000000000
+      internalID: -7877979915018905231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 680
+        width: 39
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7fc78ad0ba2f2b0800000000000000
+      internalID: -5552187315444713476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_90
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 680
+        width: 27
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94df030577fc1fe0800000000000000
+      internalID: -1216825717362273123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 680
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6342d3d5523eb18e0800000000000000
+      internalID: -1721532682921499594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 680
+        width: 50
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ffc293f722e0450800000000000000
+      internalID: 6056816478675336980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 680
+        width: 67
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82385d8e489e17010800000000000000
+      internalID: 1184984934026412840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_94
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 680
+        width: 79
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d53725d6a7605d0800000000000000
+      internalID: -3096653083817321118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 680
+        width: 87
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e612cff4cff187620800000000000000
+      internalID: 2772000739180683630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 680
+        width: 70
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405133d4501c22280800000000000000
+      internalID: -9069474471056567036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_97
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 680
+        width: 45
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60fb313a80760390800000000000000
+      internalID: -7852465161440071569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_98
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 584
+        width: 42
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2049230733f89430800000000000000
+      internalID: 3790046504034058282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 584
+        width: 39
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96ab6df7965be6b0800000000000000
+      internalID: -5266020128487922022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_100
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 584
+        width: 39
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7bd815330c208c0800000000000000
+      internalID: -4034450989526435850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 584
+        width: 25
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861503e5677a3fa00800000000000000
+      internalID: 789158486548173160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 584
+        width: 26
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178979ee4da044880800000000000000
+      internalID: -8627759076482770831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_103
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 584
+        width: 46
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6c9ac0d6604a480800000000000000
+      internalID: -8888972699088861501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_104
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 584
+        width: 25
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee18211112cb4a310800000000000000
+      internalID: 1415463033107546606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 584
+        width: 26
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04af120682755cf80800000000000000
+      internalID: -8086961724950709696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_106
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 584
+        width: 44
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c428ac68f18473430800000000000000
+      internalID: 3762555313933943372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_107
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 584
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f87fac1e8e7eb90800000000000000
+      internalID: -7212540221740052600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_108
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 584
+        width: 54
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb26e4816eddc9f60800000000000000
+      internalID: 8042547014896870075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_109
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 584
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01636569b4be7da0800000000000000
+      internalID: -5945115749719514866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 496
+        width: 61
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2398acae065b650800000000000000
+      internalID: 6248006619583034070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 496
+        width: 40
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678f00f78d006fb20800000000000000
+      internalID: 3167720317745428598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 496
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec37ef4ecea6cc90800000000000000
+      internalID: -7149835157277033245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 496
+        width: 39
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c690bb6648e7f90800000000000000
+      internalID: -6953975197853979513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_114
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 496
+        width: 43
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ee56122f109f010800000000000000
+      internalID: 1223010913261841990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_115
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 496
+        width: 81
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1773c090021103fc0800000000000000
+      internalID: -3517292479687936143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_116
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 496
+        width: 86
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a362a413704380800000000000000
+      internalID: -8989058323770531182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_117
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 496
+        width: 37
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27df3acababd5d20800000000000000
+      internalID: 3268974215960713004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_118
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 496
+        width: 36
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123bab44ab40b1d10800000000000000
+      internalID: 2097275249534612257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_119
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 496
+        width: 46
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8225202714bfbf040800000000000000
+      internalID: 4682612496085963304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 400
+        width: 52
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c0c1e4bbf9ca600800000000000000
+      internalID: 480934887039962232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 400
+        width: 63
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a341d0b8019fa70800000000000000
+      internalID: 8861131931234089538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 53
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98242d9d2fec4c690800000000000000
+      internalID: -7582708330153229687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_123
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 400
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa17ab62bfbfde20800000000000000
+      internalID: 3377629018582358781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 400
+        width: 59
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9308f60f0cc1f9500800000000000000
+      internalID: 405074106479771705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 74
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35b6184841888920800000000000000
+      internalID: 2992784099834770747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_126
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 400
+        width: 53
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1907c59e31b4e9480800000000000000
+      internalID: -8890586065491169135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_127
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 400
+        width: 39
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4762e780a0f6ab0800000000000000
+      internalID: -5012776828647607051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_128
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 400
+        width: 73
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90c43eb75c369e50800000000000000
+      internalID: 6815701433622773914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_129
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 296
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb51750d585b8f50800000000000000
+      internalID: 6884693611912453049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_130
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 296
+        width: 59
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dfa8701b1984070800000000000000
+      internalID: 8090876920092884378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 58
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3564e6a1325379920800000000000000
+      internalID: 2996922501921916499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_132
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 32
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d828c80766b96e720800000000000000
+      internalID: 2875156276399866509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 296
+        width: 61
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb2447cb3f9be300800000000000000
+      internalID: 282494480735808432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_134
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 296
+        width: 55
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca034d7f14fec330800000000000000
+      internalID: 3733189557219429058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_135
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 344
+        width: 15
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a398383412c7a5490800000000000000
+      internalID: -7756750925883799238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_136
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 296
+        width: 56
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f9fbb5ea6a3ff0800000000000000
+      internalID: -55614510454935199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_137
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 296
+        width: 55
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3967c63889e82500800000000000000
+      internalID: 371803740501928255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_138
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 296
+        width: 56
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45abc90daa6d46800800000000000000
+      internalID: 604844279107205716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_139
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 296
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f01bdd607fc5a890800000000000000
+      internalID: -7447318327000887048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_140
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 53
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd93902d56dc9de0800000000000000
+      internalID: -1324948494886920780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_142
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 192
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372f2b7e29c65db80800000000000000
+      internalID: -8370664954189909389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 31
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e4b0cbcd0e10750800000000000000
+      internalID: 6269539394928725535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762fa733620c19ac0800000000000000
+      internalID: -3850084936120077721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_145
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 192
+        width: 54
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2173bfd0d59598e50800000000000000
+      internalID: 6812074167575983890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_146
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 192
+        width: 45
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167c1267935c49420800000000000000
+      internalID: 2635948532504315745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_147
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 46
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2c878a9846973e0800000000000000
+      internalID: -2055501212518137175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_148
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 35
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c196c48c2d4295f50800000000000000
+      internalID: 6870563194252585244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_149
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 192
+        width: 51
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9f86135e6c8d7d0800000000000000
+      internalID: -2893344072906769980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_150
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 192
+        width: 57
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b721fe9320d77a0800000000000000
+      internalID: -6377939049439397033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_151
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 192
+        width: 68
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca2225ed6d34b6b0800000000000000
+      internalID: -5281528920793797952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_152
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 40
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9592a0d1d87d77d70800000000000000
+      internalID: 9040931778047125849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_153
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 63
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a25be75af765940800000000000000
+      internalID: 5284551561537989244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 46
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc1463f38ad19060800000000000000
+      internalID: 6958583159523122385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_155
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 96
+        width: 71
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73cb39a66665cc60800000000000000
+      internalID: 7837783317620179838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_156
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 48
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7279bf84d21c2f0800000000000000
+      internalID: -954431854543951922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_157
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 36
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d205c0d4e3416ac50800000000000000
+      internalID: 6676045755436519469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_158
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eb994c330631fc0800000000000000
+      internalID: -3525368307842957744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_159
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 24
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ecb9d8668280640800000000000000
+      internalID: 5046327803396214333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_160
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 50
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c65a1d0ecb344e40800000000000000
+      internalID: 5639698389543835333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_161
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 86
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3111bfd8ad78ba460800000000000000
+      internalID: 7254040997564977427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_162
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 70
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c53047ff285dcd20800000000000000
+      internalID: 3300391064967329225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_163
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a917d2fb1540a30800000000000000
+      internalID: 4180556235649686084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_164
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 39
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53becfc50f131e100800000000000000
+      internalID: 135444372219816757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_165
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a78f0885c08113d0800000000000000
+      internalID: -3237665071223044188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a85bfe5d2f553a70800000000000000
+      internalID: 8806049294864570532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_167
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 65
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c401b34ab22c3ce30800000000000000
+      internalID: 4522671943504826444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Playable Characters - Axel_edited_168
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 8
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13debfcfd442de750800000000000000
+      internalID: 6335760168155606321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ca2b1758d444694cb8d06e49dc3ea30
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Streets of Rage 2 - Playable Characters - Axel_edited_0: 6989916365035605644
+      Streets of Rage 2 - Playable Characters - Axel_edited_1: 4395067684483005667
+      Streets of Rage 2 - Playable Characters - Axel_edited_10: 1313497530154472238
+      Streets of Rage 2 - Playable Characters - Axel_edited_100: -4034450989526435850
+      Streets of Rage 2 - Playable Characters - Axel_edited_101: 789158486548173160
+      Streets of Rage 2 - Playable Characters - Axel_edited_102: -8627759076482770831
+      Streets of Rage 2 - Playable Characters - Axel_edited_103: -8888972699088861501
+      Streets of Rage 2 - Playable Characters - Axel_edited_104: 1415463033107546606
+      Streets of Rage 2 - Playable Characters - Axel_edited_105: -8086961724950709696
+      Streets of Rage 2 - Playable Characters - Axel_edited_106: 3762555313933943372
+      Streets of Rage 2 - Playable Characters - Axel_edited_107: -7212540221740052600
+      Streets of Rage 2 - Playable Characters - Axel_edited_108: 8042547014896870075
+      Streets of Rage 2 - Playable Characters - Axel_edited_109: -5945115749719514866
+      Streets of Rage 2 - Playable Characters - Axel_edited_11: 8265264370352498926
+      Streets of Rage 2 - Playable Characters - Axel_edited_110: 6248006619583034070
+      Streets of Rage 2 - Playable Characters - Axel_edited_111: 3167720317745428598
+      Streets of Rage 2 - Playable Characters - Axel_edited_112: -7149835157277033245
+      Streets of Rage 2 - Playable Characters - Axel_edited_113: -6953975197853979513
+      Streets of Rage 2 - Playable Characters - Axel_edited_114: 1223010913261841990
+      Streets of Rage 2 - Playable Characters - Axel_edited_115: -3517292479687936143
+      Streets of Rage 2 - Playable Characters - Axel_edited_116: -8989058323770531182
+      Streets of Rage 2 - Playable Characters - Axel_edited_117: 3268974215960713004
+      Streets of Rage 2 - Playable Characters - Axel_edited_118: 2097275249534612257
+      Streets of Rage 2 - Playable Characters - Axel_edited_119: 4682612496085963304
+      Streets of Rage 2 - Playable Characters - Axel_edited_12: -2208200825050264720
+      Streets of Rage 2 - Playable Characters - Axel_edited_120: 480934887039962232
+      Streets of Rage 2 - Playable Characters - Axel_edited_121: 8861131931234089538
+      Streets of Rage 2 - Playable Characters - Axel_edited_122: -7582708330153229687
+      Streets of Rage 2 - Playable Characters - Axel_edited_123: 3377629018582358781
+      Streets of Rage 2 - Playable Characters - Axel_edited_124: 405074106479771705
+      Streets of Rage 2 - Playable Characters - Axel_edited_125: 2992784099834770747
+      Streets of Rage 2 - Playable Characters - Axel_edited_126: -8890586065491169135
+      Streets of Rage 2 - Playable Characters - Axel_edited_127: -5012776828647607051
+      Streets of Rage 2 - Playable Characters - Axel_edited_128: 6815701433622773914
+      Streets of Rage 2 - Playable Characters - Axel_edited_129: 6884693611912453049
+      Streets of Rage 2 - Playable Characters - Axel_edited_13: -1313169188386580862
+      Streets of Rage 2 - Playable Characters - Axel_edited_130: 8090876920092884378
+      Streets of Rage 2 - Playable Characters - Axel_edited_131: 2996922501921916499
+      Streets of Rage 2 - Playable Characters - Axel_edited_132: 2875156276399866509
+      Streets of Rage 2 - Playable Characters - Axel_edited_133: 282494480735808432
+      Streets of Rage 2 - Playable Characters - Axel_edited_134: 3733189557219429058
+      Streets of Rage 2 - Playable Characters - Axel_edited_135: -7756750925883799238
+      Streets of Rage 2 - Playable Characters - Axel_edited_136: -55614510454935199
+      Streets of Rage 2 - Playable Characters - Axel_edited_137: 371803740501928255
+      Streets of Rage 2 - Playable Characters - Axel_edited_138: 604844279107205716
+      Streets of Rage 2 - Playable Characters - Axel_edited_139: -7447318327000887048
+      Streets of Rage 2 - Playable Characters - Axel_edited_14: -2519908591597644481
+      Streets of Rage 2 - Playable Characters - Axel_edited_140: -1324948494886920780
+      Streets of Rage 2 - Playable Characters - Axel_edited_141: -8803610372649713298
+      Streets of Rage 2 - Playable Characters - Axel_edited_142: -8370664954189909389
+      Streets of Rage 2 - Playable Characters - Axel_edited_143: 6269539394928725535
+      Streets of Rage 2 - Playable Characters - Axel_edited_144: -3850084936120077721
+      Streets of Rage 2 - Playable Characters - Axel_edited_145: 6812074167575983890
+      Streets of Rage 2 - Playable Characters - Axel_edited_146: 2635948532504315745
+      Streets of Rage 2 - Playable Characters - Axel_edited_147: -2055501212518137175
+      Streets of Rage 2 - Playable Characters - Axel_edited_148: 6870563194252585244
+      Streets of Rage 2 - Playable Characters - Axel_edited_149: -2893344072906769980
+      Streets of Rage 2 - Playable Characters - Axel_edited_15: 1100000072956220569
+      Streets of Rage 2 - Playable Characters - Axel_edited_150: -6377939049439397033
+      Streets of Rage 2 - Playable Characters - Axel_edited_151: -5281528920793797952
+      Streets of Rage 2 - Playable Characters - Axel_edited_152: 9040931778047125849
+      Streets of Rage 2 - Playable Characters - Axel_edited_153: 5284551561537989244
+      Streets of Rage 2 - Playable Characters - Axel_edited_154: 6958583159523122385
+      Streets of Rage 2 - Playable Characters - Axel_edited_155: 7837783317620179838
+      Streets of Rage 2 - Playable Characters - Axel_edited_156: -954431854543951922
+      Streets of Rage 2 - Playable Characters - Axel_edited_157: 6676045755436519469
+      Streets of Rage 2 - Playable Characters - Axel_edited_158: -3525368307842957744
+      Streets of Rage 2 - Playable Characters - Axel_edited_159: 5046327803396214333
+      Streets of Rage 2 - Playable Characters - Axel_edited_16: -5178953168980278730
+      Streets of Rage 2 - Playable Characters - Axel_edited_160: 5639698389543835333
+      Streets of Rage 2 - Playable Characters - Axel_edited_161: 7254040997564977427
+      Streets of Rage 2 - Playable Characters - Axel_edited_162: 3300391064967329225
+      Streets of Rage 2 - Playable Characters - Axel_edited_163: 4180556235649686084
+      Streets of Rage 2 - Playable Characters - Axel_edited_164: 135444372219816757
+      Streets of Rage 2 - Playable Characters - Axel_edited_165: -3237665071223044188
+      Streets of Rage 2 - Playable Characters - Axel_edited_166: 8806049294864570532
+      Streets of Rage 2 - Playable Characters - Axel_edited_167: 4522671943504826444
+      Streets of Rage 2 - Playable Characters - Axel_edited_168: 6335760168155606321
+      Streets of Rage 2 - Playable Characters - Axel_edited_17: 7587924842268745474
+      Streets of Rage 2 - Playable Characters - Axel_edited_18: 1497955500619893958
+      Streets of Rage 2 - Playable Characters - Axel_edited_19: 2214206141191437790
+      Streets of Rage 2 - Playable Characters - Axel_edited_2: 8516320898659133249
+      Streets of Rage 2 - Playable Characters - Axel_edited_20: 2515734348166749352
+      Streets of Rage 2 - Playable Characters - Axel_edited_21: 6472098836843245630
+      Streets of Rage 2 - Playable Characters - Axel_edited_22: -6791914703526540900
+      Streets of Rage 2 - Playable Characters - Axel_edited_23: -4062856789839426969
+      Streets of Rage 2 - Playable Characters - Axel_edited_24: -3471291980175743360
+      Streets of Rage 2 - Playable Characters - Axel_edited_25: -8015792917474977925
+      Streets of Rage 2 - Playable Characters - Axel_edited_26: -8456986820068660089
+      Streets of Rage 2 - Playable Characters - Axel_edited_27: -7470700914261148479
+      Streets of Rage 2 - Playable Characters - Axel_edited_28: 1350839202106026371
+      Streets of Rage 2 - Playable Characters - Axel_edited_29: 3532216474903859241
+      Streets of Rage 2 - Playable Characters - Axel_edited_3: 53506882166583817
+      Streets of Rage 2 - Playable Characters - Axel_edited_30: -5786902335354625515
+      Streets of Rage 2 - Playable Characters - Axel_edited_31: -8842236144111042154
+      Streets of Rage 2 - Playable Characters - Axel_edited_32: -4340732443925725882
+      Streets of Rage 2 - Playable Characters - Axel_edited_33: -3056648417902378523
+      Streets of Rage 2 - Playable Characters - Axel_edited_34: -8171162163539832954
+      Streets of Rage 2 - Playable Characters - Axel_edited_35: 3523297284957806299
+      Streets of Rage 2 - Playable Characters - Axel_edited_36: -176636121111523574
+      Streets of Rage 2 - Playable Characters - Axel_edited_37: 6981112632794358754
+      Streets of Rage 2 - Playable Characters - Axel_edited_38: -8063543052677735645
+      Streets of Rage 2 - Playable Characters - Axel_edited_39: 7248345023253356717
+      Streets of Rage 2 - Playable Characters - Axel_edited_4: -13591315313502295
+      Streets of Rage 2 - Playable Characters - Axel_edited_40: -3777838777021945631
+      Streets of Rage 2 - Playable Characters - Axel_edited_41: -5238528665184298120
+      Streets of Rage 2 - Playable Characters - Axel_edited_42: 327191922035162623
+      Streets of Rage 2 - Playable Characters - Axel_edited_43: 2737871580539799513
+      Streets of Rage 2 - Playable Characters - Axel_edited_44: -2061314061500030743
+      Streets of Rage 2 - Playable Characters - Axel_edited_45: -6441762199343148943
+      Streets of Rage 2 - Playable Characters - Axel_edited_46: -6109716990485690048
+      Streets of Rage 2 - Playable Characters - Axel_edited_47: 3580999728191251773
+      Streets of Rage 2 - Playable Characters - Axel_edited_48: 7290010950438047610
+      Streets of Rage 2 - Playable Characters - Axel_edited_49: -62082559129817573
+      Streets of Rage 2 - Playable Characters - Axel_edited_5: -4706386101594383976
+      Streets of Rage 2 - Playable Characters - Axel_edited_50: 8282078588736134847
+      Streets of Rage 2 - Playable Characters - Axel_edited_51: 9216534633310664143
+      Streets of Rage 2 - Playable Characters - Axel_edited_52: -5501987342521742687
+      Streets of Rage 2 - Playable Characters - Axel_edited_53: -1118915936556756125
+      Streets of Rage 2 - Playable Characters - Axel_edited_54: -7592830083745373103
+      Streets of Rage 2 - Playable Characters - Axel_edited_55: -2518086777130559920
+      Streets of Rage 2 - Playable Characters - Axel_edited_56: -470428772882566001
+      Streets of Rage 2 - Playable Characters - Axel_edited_57: 5405462267172823815
+      Streets of Rage 2 - Playable Characters - Axel_edited_58: -2188079962415702018
+      Streets of Rage 2 - Playable Characters - Axel_edited_59: -7637030021905976326
+      Streets of Rage 2 - Playable Characters - Axel_edited_6: -1271741778540840608
+      Streets of Rage 2 - Playable Characters - Axel_edited_60: 3677475978485937756
+      Streets of Rage 2 - Playable Characters - Axel_edited_61: -244009935289252246
+      Streets of Rage 2 - Playable Characters - Axel_edited_62: 3765253262268846898
+      Streets of Rage 2 - Playable Characters - Axel_edited_63: 8254898561304528299
+      Streets of Rage 2 - Playable Characters - Axel_edited_64: 5860111417307413432
+      Streets of Rage 2 - Playable Characters - Axel_edited_65: -1409772118210413728
+      Streets of Rage 2 - Playable Characters - Axel_edited_66: -6385337384897997839
+      Streets of Rage 2 - Playable Characters - Axel_edited_67: 2821923333577453836
+      Streets of Rage 2 - Playable Characters - Axel_edited_68: -2342426803750987530
+      Streets of Rage 2 - Playable Characters - Axel_edited_69: 3649123640815970139
+      Streets of Rage 2 - Playable Characters - Axel_edited_7: -1163920650052282354
+      Streets of Rage 2 - Playable Characters - Axel_edited_70: -9117707410889824839
+      Streets of Rage 2 - Playable Characters - Axel_edited_71: -1729041618731164540
+      Streets of Rage 2 - Playable Characters - Axel_edited_72: 2409142009850038539
+      Streets of Rage 2 - Playable Characters - Axel_edited_73: -8951120334374195110
+      Streets of Rage 2 - Playable Characters - Axel_edited_74: -2996482721901933807
+      Streets of Rage 2 - Playable Characters - Axel_edited_75: 1704412038789855818
+      Streets of Rage 2 - Playable Characters - Axel_edited_76: -4803602356870176842
+      Streets of Rage 2 - Playable Characters - Axel_edited_77: 6252311286115634714
+      Streets of Rage 2 - Playable Characters - Axel_edited_78: 704862586086000203
+      Streets of Rage 2 - Playable Characters - Axel_edited_79: 6083028941389760816
+      Streets of Rage 2 - Playable Characters - Axel_edited_8: -4274000026443721578
+      Streets of Rage 2 - Playable Characters - Axel_edited_80: 399526499567612758
+      Streets of Rage 2 - Playable Characters - Axel_edited_81: -3192183343115269560
+      Streets of Rage 2 - Playable Characters - Axel_edited_82: -1962260165901326829
+      Streets of Rage 2 - Playable Characters - Axel_edited_83: 9130734145810979564
+      Streets of Rage 2 - Playable Characters - Axel_edited_84: 3238895280409131474
+      Streets of Rage 2 - Playable Characters - Axel_edited_85: 2865836539370143659
+      Streets of Rage 2 - Playable Characters - Axel_edited_86: -7877979915018905231
+      Streets of Rage 2 - Playable Characters - Axel_edited_87: -6527730667855334359
+      Streets of Rage 2 - Playable Characters - Axel_edited_88: -2599603681589268841
+      Streets of Rage 2 - Playable Characters - Axel_edited_89: -5552187315444713476
+      Streets of Rage 2 - Playable Characters - Axel_edited_9: -2158704864910982137
+      Streets of Rage 2 - Playable Characters - Axel_edited_90: -1216825717362273123
+      Streets of Rage 2 - Playable Characters - Axel_edited_91: -1721532682921499594
+      Streets of Rage 2 - Playable Characters - Axel_edited_92: 6056816478675336980
+      Streets of Rage 2 - Playable Characters - Axel_edited_93: 1184984934026412840
+      Streets of Rage 2 - Playable Characters - Axel_edited_94: -3096653083817321118
+      Streets of Rage 2 - Playable Characters - Axel_edited_95: 2772000739180683630
+      Streets of Rage 2 - Playable Characters - Axel_edited_96: -9069474471056567036
+      Streets of Rage 2 - Playable Characters - Axel_edited_97: -7852465161440071569
+      Streets of Rage 2 - Playable Characters - Axel_edited_98: 3790046504034058282
+      Streets of Rage 2 - Playable Characters - Axel_edited_99: -5266020128487922022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

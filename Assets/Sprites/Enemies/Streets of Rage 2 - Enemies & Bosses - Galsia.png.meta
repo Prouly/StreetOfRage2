@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 6bb034c59ca253c45832bc0deceef191
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5522651516622490046
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_0
+  - first:
+      213: -5668149674242575844
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_1
+  - first:
+      213: 8516660720405433540
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_2
+  - first:
+      213: -9020961275999919755
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_3
+  - first:
+      213: 1152637115438370865
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_4
+  - first:
+      213: -4544931369909206786
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_5
+  - first:
+      213: 3947402132808101566
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_6
+  - first:
+      213: -4861046722126778965
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_7
+  - first:
+      213: 1324403365488492092
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_8
+  - first:
+      213: -2815944161207706317
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_9
+  - first:
+      213: -7653906266302171003
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_10
+  - first:
+      213: -5507337018741975573
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_11
+  - first:
+      213: 1352531581920650565
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_12
+  - first:
+      213: -5937846033819354298
+    second: Streets of Rage 2 - Enemies & Bosses - Galsia_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 180
+        width: 47
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246b175b4b99b53b0800000000000000
+      internalID: -5522651516622490046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 39
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12760507efa651b0800000000000000
+      internalID: -5668149674242575844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 180
+        width: 39
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccc9405dc1413670800000000000000
+      internalID: 8516660720405433540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 180
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571687bb38b1fc280800000000000000
+      internalID: -9020961275999919755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 180
+        width: 43
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13092ac795dfeff00800000000000000
+      internalID: 1152637115438370865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 46
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef04808cff82de0c0800000000000000
+      internalID: -4544931369909206786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe65a7535df7c630800000000000000
+      internalID: 3947402132808101566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 79
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad6e0bd2c71a8cb0800000000000000
+      internalID: -4861046722126778965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 70
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ef54b08d9316210800000000000000
+      internalID: 1324403365488492092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 96
+        width: 40
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d11e374b1cbe8d0800000000000000
+      internalID: -2815944161207706317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5883cec8dccd7c590800000000000000
+      internalID: -7653906266302171003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 32
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5968b19220293b0800000000000000
+      internalID: -5507337018741975573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 12
+        width: 32
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545a0e7ce4825c210800000000000000
+      internalID: 1352531581920650565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Galsia_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 12
+        width: 69
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b3c370e78889da0800000000000000
+      internalID: -5937846033819354298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3718ed6bd27dd0a4b818b9af713a21eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Streets of Rage 2 - Enemies & Bosses - Galsia_0: -5522651516622490046
+      Streets of Rage 2 - Enemies & Bosses - Galsia_1: -5668149674242575844
+      Streets of Rage 2 - Enemies & Bosses - Galsia_10: -7653906266302171003
+      Streets of Rage 2 - Enemies & Bosses - Galsia_11: -5507337018741975573
+      Streets of Rage 2 - Enemies & Bosses - Galsia_12: 1352531581920650565
+      Streets of Rage 2 - Enemies & Bosses - Galsia_13: -5937846033819354298
+      Streets of Rage 2 - Enemies & Bosses - Galsia_2: 8516660720405433540
+      Streets of Rage 2 - Enemies & Bosses - Galsia_3: -9020961275999919755
+      Streets of Rage 2 - Enemies & Bosses - Galsia_4: 1152637115438370865
+      Streets of Rage 2 - Enemies & Bosses - Galsia_5: -4544931369909206786
+      Streets of Rage 2 - Enemies & Bosses - Galsia_6: 3947402132808101566
+      Streets of Rage 2 - Enemies & Bosses - Galsia_7: -4861046722126778965
+      Streets of Rage 2 - Enemies & Bosses - Galsia_8: 1324403365488492092
+      Streets of Rage 2 - Enemies & Bosses - Galsia_9: -2815944161207706317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

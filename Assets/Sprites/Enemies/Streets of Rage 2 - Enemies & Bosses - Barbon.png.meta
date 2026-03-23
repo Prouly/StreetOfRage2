@@ -1,0 +1,2496 @@
+fileFormatVersion: 2
+guid: 1db787297d6e10d4aa14ddf029cb289e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2640561807008542388
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_0
+  - first:
+      213: -3533713820237694363
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_1
+  - first:
+      213: 2284986289017891456
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_2
+  - first:
+      213: 5160090706762394958
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_3
+  - first:
+      213: -640825294272220070
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_4
+  - first:
+      213: 6325722520727055810
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_5
+  - first:
+      213: -1510049648542454084
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_6
+  - first:
+      213: 2470882266442319454
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_7
+  - first:
+      213: -2461781558647799780
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_8
+  - first:
+      213: 905468504361952333
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_9
+  - first:
+      213: -7196974656394429551
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_10
+  - first:
+      213: -5107891852328170873
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_11
+  - first:
+      213: -951298653191537097
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_12
+  - first:
+      213: -8844020363566090086
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_13
+  - first:
+      213: -3331348965684757242
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_14
+  - first:
+      213: -103724943609896803
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_15
+  - first:
+      213: 5603686253960548546
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_16
+  - first:
+      213: 1264770131015349147
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_17
+  - first:
+      213: 3573840864281365166
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_18
+  - first:
+      213: -291825526786776807
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_19
+  - first:
+      213: 7036168995501842854
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_20
+  - first:
+      213: -7128734838167702488
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_21
+  - first:
+      213: -5549288497428832752
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_22
+  - first:
+      213: 7156727372351617690
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_23
+  - first:
+      213: -1664083780193615697
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_24
+  - first:
+      213: -8180761674050536308
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_25
+  - first:
+      213: -4155773968907773881
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_26
+  - first:
+      213: 9220764713575620947
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_27
+  - first:
+      213: -1696848840137203019
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_28
+  - first:
+      213: -5470234151341661662
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_29
+  - first:
+      213: 5092397255771129344
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_30
+  - first:
+      213: 5599741048569942821
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_31
+  - first:
+      213: 2082693308120223022
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_32
+  - first:
+      213: -1606152853036520506
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_33
+  - first:
+      213: 4843888441381628473
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_34
+  - first:
+      213: -3822883085866324153
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_35
+  - first:
+      213: -3172733682788272018
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_36
+  - first:
+      213: -3267651275143947764
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_37
+  - first:
+      213: -2331500520831319658
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_38
+  - first:
+      213: -8592537588024768315
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_39
+  - first:
+      213: -175852941763246322
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_40
+  - first:
+      213: -1169768547977388478
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_41
+  - first:
+      213: 2523544803151867184
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_42
+  - first:
+      213: 8165026545943911642
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_43
+  - first:
+      213: 7016208093276025034
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_44
+  - first:
+      213: -6923183984193356819
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_45
+  - first:
+      213: 3893779932136769285
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_46
+  - first:
+      213: 8720421648366911319
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_47
+  - first:
+      213: 8600348837198187911
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_48
+  - first:
+      213: 3792487563881209345
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_49
+  - first:
+      213: 7290514511710019973
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_50
+  - first:
+      213: 1433805212796754030
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_51
+  - first:
+      213: 638481915966508609
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_52
+  - first:
+      213: -2453437891549724895
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_53
+  - first:
+      213: -1733225842444680179
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_54
+  - first:
+      213: -3666291393252137321
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_55
+  - first:
+      213: -4250352059954987177
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_56
+  - first:
+      213: 4329253771924005098
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_57
+  - first:
+      213: 1132349665434411541
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_58
+  - first:
+      213: 1574211733788701230
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_59
+  - first:
+      213: 3941995766754524588
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_60
+  - first:
+      213: 3670561485264578496
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_61
+  - first:
+      213: 1144324418438463757
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_62
+  - first:
+      213: -7587322385517831503
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_63
+  - first:
+      213: 6496731295550431412
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_64
+  - first:
+      213: 3867222550510889446
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_65
+  - first:
+      213: -198330078021471990
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_66
+  - first:
+      213: -4029424768722633832
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_67
+  - first:
+      213: -8274870262287424261
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_68
+  - first:
+      213: 8768874568016494094
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_69
+  - first:
+      213: -2194997787842975829
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_70
+  - first:
+      213: 9177200505785820293
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_71
+  - first:
+      213: 3116918353029216031
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_72
+  - first:
+      213: -4251179922192690775
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_73
+  - first:
+      213: 3127389192098924495
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_74
+  - first:
+      213: -4408776160846520851
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_75
+  - first:
+      213: 4938843358946263104
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_76
+  - first:
+      213: 6921186827739508095
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_77
+  - first:
+      213: -6222237473375325442
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_78
+  - first:
+      213: 8567063754809624601
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_79
+  - first:
+      213: -1584151296446678151
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_80
+  - first:
+      213: -2463648345529094730
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_81
+  - first:
+      213: 8106068140005149376
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_82
+  - first:
+      213: -1353311946322934925
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_83
+  - first:
+      213: -6876361650242813728
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_84
+  - first:
+      213: 1404576710666007647
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_85
+  - first:
+      213: 90468159534416394
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_86
+  - first:
+      213: -5328534878841437250
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_87
+  - first:
+      213: -6510152835711699032
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_88
+  - first:
+      213: 927291142030928020
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_89
+  - first:
+      213: -3078665460106880130
+    second: Streets of Rage 2 - Enemies & Bosses - Barbon_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 952
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be253229f825a420800000000000000
+      internalID: 2640561807008542388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 952
+        width: 40
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af7deb00ab5fec0800000000000000
+      internalID: -3533713820237694363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 952
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aac896ce6e5bf10800000000000000
+      internalID: 2284986289017891456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 952
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ded5198235c9740800000000000000
+      internalID: 5160090706762394958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 952
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54b1d34ac45b17f0800000000000000
+      internalID: -640825294272220070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 952
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdef931e1b79c750800000000000000
+      internalID: 6325722520727055810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 952
+        width: 48
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe6c6168d93b0be0800000000000000
+      internalID: -1510049648542454084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 952
+        width: 47
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e564b1d74565a4220800000000000000
+      internalID: 2470882266442319454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 952
+        width: 59
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10c03a27bef5ddd0800000000000000
+      internalID: -2461781558647799780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 952
+        width: 59
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d446ccdaeced09c00800000000000000
+      internalID: 905468504361952333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 952
+        width: 68
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bfe146ea53f1c90800000000000000
+      internalID: -7196974656394429551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 848
+        width: 60
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a0ede4c6f1d19b0800000000000000
+      internalID: -5107891852328170873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 848
+        width: 61
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ef5354aee4cc2f0800000000000000
+      internalID: -951298653191537097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 848
+        width: 61
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a987253465ab34580800000000000000
+      internalID: -8844020363566090086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 848
+        width: 55
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dbe7514cba4c1d0800000000000000
+      internalID: -3331348965684757242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 848
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e8cd96be7f8ef0800000000000000
+      internalID: -103724943609896803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 848
+        width: 60
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0de0855fa44cd40800000000000000
+      internalID: 5603686253960548546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 848
+        width: 59
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93b1bdabbd5d8110800000000000000
+      internalID: 1264770131015349147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 848
+        width: 91
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa044fb455d89130800000000000000
+      internalID: 3573840864281365166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 728
+        width: 55
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911ab73ca3a33fbf0800000000000000
+      internalID: -291825526786776807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 728
+        width: 42
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a121841c6e75a160800000000000000
+      internalID: 7036168995501842854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 728
+        width: 47
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824ff013f65a11d90800000000000000
+      internalID: -7128734838167702488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 728
+        width: 54
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed7925387fcf2b0800000000000000
+      internalID: -5549288497428832752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 728
+        width: 85
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a355f80adc15360800000000000000
+      internalID: 7156727372351617690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 728
+        width: 46
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0021d5e9cf7e8e0800000000000000
+      internalID: -1664083780193615697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 728
+        width: 46
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c761ad998187e80800000000000000
+      internalID: -8180761674050536308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_26
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 728
+        width: 86
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748df60f799b356c0800000000000000
+      internalID: -4155773968907773881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 728
+        width: 80
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351a12e37acb6ff70800000000000000
+      internalID: 9220764713575620947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 624
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a61e58f49378e0800000000000000
+      internalID: -1696848840137203019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 624
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222e11b9503d514b0800000000000000
+      internalID: -5470234151341661662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 624
+        width: 55
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006896dc254dba640800000000000000
+      internalID: 5092397255771129344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 80
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5235f22a0d646bd40800000000000000
+      internalID: 5599741048569942821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 57
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc696778637ec10800000000000000
+      internalID: 2082693308120223022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 624
+        width: 53
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb27cb6d7cc5b9e0800000000000000
+      internalID: -1606152853036520506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 624
+        width: 44
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a2c289fd2f83340800000000000000
+      internalID: 4843888441381628473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 624
+        width: 47
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa611861462fac0800000000000000
+      internalID: -3822883085866324153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 62
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68fc7e768f28f3d0800000000000000
+      internalID: -3172733682788272018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 536
+        width: 76
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a513f5a78f6a2d0800000000000000
+      internalID: -3267651275143947764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 536
+        width: 106
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691063e01a8d4afd0800000000000000
+      internalID: -2331500520831319658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 536
+        width: 100
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c88792c69c21c880800000000000000
+      internalID: -8592537588024768315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 536
+        width: 70
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078e716eae3f8df0800000000000000
+      internalID: -175852941763246322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 534
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e126c04b524cfe0800000000000000
+      internalID: -1169768547977388478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 536
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5078e88d73c790630800000000000000
+      internalID: 3893779932136769285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_47
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 536
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f39825949250970800000000000000
+      internalID: 8720421648366911319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 432
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d44a963b39a5770800000000000000
+      internalID: 8600348837198187911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 432
+        width: 40
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ed93c885f91a430800000000000000
+      internalID: 3792487563881209345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 432
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5816e44525c1d2560800000000000000
+      internalID: 7290514511710019973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 432
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e689ad19e36e5e310800000000000000
+      internalID: 1433805212796754030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ec1b47be75cd800800000000000000
+      internalID: 638481915966508609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 432
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ff1bb8c33a3fdd0800000000000000
+      internalID: -2453437891549724895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 432
+        width: 48
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04ce81874852f7e0800000000000000
+      internalID: -1733225842444680179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 47
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79662261767be1dc0800000000000000
+      internalID: -3666291393252137321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_56
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 432
+        width: 71
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f78002257b305c0800000000000000
+      internalID: -4250352059954987177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_57
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 432
+        width: 63
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0ec024e59941c30800000000000000
+      internalID: 4329253771924005098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 432
+        width: 68
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51220c1750ae6bf00800000000000000
+      internalID: 1132349665434411541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 328
+        width: 60
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e223ab93b39b8d510800000000000000
+      internalID: 1574211733788701230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 328
+        width: 61
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad3f77a348c4b630800000000000000
+      internalID: 3941995766754524588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 328
+        width: 61
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7ec6f293470f230800000000000000
+      internalID: 3670561485264578496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 328
+        width: 55
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0184d4eef471ef00800000000000000
+      internalID: 1144324418438463757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 328
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba17de5d7a64b690800000000000000
+      internalID: -7587322385517831503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_64
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 328
+        width: 60
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0627031b6092a50800000000000000
+      internalID: 6496731295550431412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_65
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 328
+        width: 59
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9e4969b622ba530800000000000000
+      internalID: 3867222550510889446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_66
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 328
+        width: 91
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01314748d36f3df0800000000000000
+      internalID: -198330078021471990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 208
+        width: 55
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b702b858b9418c0800000000000000
+      internalID: -4029424768722633832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 208
+        width: 41
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf42aeda651c92d80800000000000000
+      internalID: -8274870262287424261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 47
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e749ac5fc41b970800000000000000
+      internalID: 8768874568016494094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 54
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e9dc342dc981e0800000000000000
+      internalID: -2194997787842975829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 85
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58426e3bc37fb5f70800000000000000
+      internalID: 9177200505785820293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 208
+        width: 45
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17b33a5ab4814b20800000000000000
+      internalID: 3116918353029216031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_73
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 208
+        width: 46
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a19e6d6266c005c0800000000000000
+      internalID: -4251179922192690775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 86
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7c37d86e7b66b20800000000000000
+      internalID: 3127389192098924495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_75
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 208
+        width: 80
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded588eb071e0d2c0800000000000000
+      internalID: -4408776160846520851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0400a4b2edb4a8440800000000000000
+      internalID: 4938843358946263104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7da683ffbefc0060800000000000000
+      internalID: 6921186827739508095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_78
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 104
+        width: 55
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2f65b1cfb26a9a0800000000000000
+      internalID: -6222237473375325442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_79
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 104
+        width: 80
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9184d81481354e670800000000000000
+      internalID: 8567063754809624601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 104
+        width: 57
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b32d00ac6f30ae0800000000000000
+      internalID: -1584151296446678151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 104
+        width: 53
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd6249f1ec5fcdd0800000000000000
+      internalID: -2463648345529094730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_82
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 104
+        width: 44
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca4e1a860a8e7070800000000000000
+      internalID: 8106068140005149376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_83
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 104
+        width: 47
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373012974f1183de0800000000000000
+      internalID: -1353311946322934925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_84
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 104
+        width: 64
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0882af2814290a0800000000000000
+      internalID: -6876361650242813728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 76
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54b80b931f0e7310800000000000000
+      internalID: 1404576710666007647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 106
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a024880df48614100800000000000000
+      internalID: 90468159534416394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 96
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3806d62cd3d06b0800000000000000
+      internalID: -5328534878841437250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 8
+        width: 70
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7f6e9fc7a47a5a0800000000000000
+      internalID: -6510152835711699032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 8
+        width: 60
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498ae1471666edc00800000000000000
+      internalID: 927291142030928020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_90
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 8
+        width: 60
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b901453126645d0800000000000000
+      internalID: -3078665460106880130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_42
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 534
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1c9191c5c1c5a4cac262b29eadaccc
+      internalID: 2523544803151867184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 534
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da6b415939364249b1ce05fd07a83a2
+      internalID: 8165026545943911642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_44
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 534
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ffb3dd3cef19746a2e8df3d9c7177e
+      internalID: 7016208093276025034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Barbon_45
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 534
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a5ff1ed9208647a4bcdf1d5ed27ca
+      internalID: -6923183984193356819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 15271d9a1649a974eb0ea5fb031d483b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Streets of Rage 2 - Enemies & Bosses - Barbon_0: 2640561807008542388
+      Streets of Rage 2 - Enemies & Bosses - Barbon_1: -3533713820237694363
+      Streets of Rage 2 - Enemies & Bosses - Barbon_10: -7196974656394429551
+      Streets of Rage 2 - Enemies & Bosses - Barbon_11: -5107891852328170873
+      Streets of Rage 2 - Enemies & Bosses - Barbon_12: -951298653191537097
+      Streets of Rage 2 - Enemies & Bosses - Barbon_13: -8844020363566090086
+      Streets of Rage 2 - Enemies & Bosses - Barbon_14: -3331348965684757242
+      Streets of Rage 2 - Enemies & Bosses - Barbon_15: -103724943609896803
+      Streets of Rage 2 - Enemies & Bosses - Barbon_16: 5603686253960548546
+      Streets of Rage 2 - Enemies & Bosses - Barbon_17: 1264770131015349147
+      Streets of Rage 2 - Enemies & Bosses - Barbon_18: 3573840864281365166
+      Streets of Rage 2 - Enemies & Bosses - Barbon_19: -291825526786776807
+      Streets of Rage 2 - Enemies & Bosses - Barbon_2: 2284986289017891456
+      Streets of Rage 2 - Enemies & Bosses - Barbon_20: 7036168995501842854
+      Streets of Rage 2 - Enemies & Bosses - Barbon_21: -7128734838167702488
+      Streets of Rage 2 - Enemies & Bosses - Barbon_22: -5549288497428832752
+      Streets of Rage 2 - Enemies & Bosses - Barbon_23: 7156727372351617690
+      Streets of Rage 2 - Enemies & Bosses - Barbon_24: -1664083780193615697
+      Streets of Rage 2 - Enemies & Bosses - Barbon_25: -8180761674050536308
+      Streets of Rage 2 - Enemies & Bosses - Barbon_26: -4155773968907773881
+      Streets of Rage 2 - Enemies & Bosses - Barbon_27: 9220764713575620947
+      Streets of Rage 2 - Enemies & Bosses - Barbon_28: -1696848840137203019
+      Streets of Rage 2 - Enemies & Bosses - Barbon_29: -5470234151341661662
+      Streets of Rage 2 - Enemies & Bosses - Barbon_3: 5160090706762394958
+      Streets of Rage 2 - Enemies & Bosses - Barbon_30: 5092397255771129344
+      Streets of Rage 2 - Enemies & Bosses - Barbon_31: 5599741048569942821
+      Streets of Rage 2 - Enemies & Bosses - Barbon_32: 2082693308120223022
+      Streets of Rage 2 - Enemies & Bosses - Barbon_33: -1606152853036520506
+      Streets of Rage 2 - Enemies & Bosses - Barbon_34: 4843888441381628473
+      Streets of Rage 2 - Enemies & Bosses - Barbon_35: -3822883085866324153
+      Streets of Rage 2 - Enemies & Bosses - Barbon_36: -3172733682788272018
+      Streets of Rage 2 - Enemies & Bosses - Barbon_37: -3267651275143947764
+      Streets of Rage 2 - Enemies & Bosses - Barbon_38: -2331500520831319658
+      Streets of Rage 2 - Enemies & Bosses - Barbon_39: -8592537588024768315
+      Streets of Rage 2 - Enemies & Bosses - Barbon_4: -640825294272220070
+      Streets of Rage 2 - Enemies & Bosses - Barbon_40: -175852941763246322
+      Streets of Rage 2 - Enemies & Bosses - Barbon_41: -1169768547977388478
+      Streets of Rage 2 - Enemies & Bosses - Barbon_42: 2523544803151867184
+      Streets of Rage 2 - Enemies & Bosses - Barbon_43: 8165026545943911642
+      Streets of Rage 2 - Enemies & Bosses - Barbon_44: 7016208093276025034
+      Streets of Rage 2 - Enemies & Bosses - Barbon_45: -6923183984193356819
+      Streets of Rage 2 - Enemies & Bosses - Barbon_46: 3893779932136769285
+      Streets of Rage 2 - Enemies & Bosses - Barbon_47: 8720421648366911319
+      Streets of Rage 2 - Enemies & Bosses - Barbon_48: 8600348837198187911
+      Streets of Rage 2 - Enemies & Bosses - Barbon_49: 3792487563881209345
+      Streets of Rage 2 - Enemies & Bosses - Barbon_5: 6325722520727055810
+      Streets of Rage 2 - Enemies & Bosses - Barbon_50: 7290514511710019973
+      Streets of Rage 2 - Enemies & Bosses - Barbon_51: 1433805212796754030
+      Streets of Rage 2 - Enemies & Bosses - Barbon_52: 638481915966508609
+      Streets of Rage 2 - Enemies & Bosses - Barbon_53: -2453437891549724895
+      Streets of Rage 2 - Enemies & Bosses - Barbon_54: -1733225842444680179
+      Streets of Rage 2 - Enemies & Bosses - Barbon_55: -3666291393252137321
+      Streets of Rage 2 - Enemies & Bosses - Barbon_56: -4250352059954987177
+      Streets of Rage 2 - Enemies & Bosses - Barbon_57: 4329253771924005098
+      Streets of Rage 2 - Enemies & Bosses - Barbon_58: 1132349665434411541
+      Streets of Rage 2 - Enemies & Bosses - Barbon_59: 1574211733788701230
+      Streets of Rage 2 - Enemies & Bosses - Barbon_6: -1510049648542454084
+      Streets of Rage 2 - Enemies & Bosses - Barbon_60: 3941995766754524588
+      Streets of Rage 2 - Enemies & Bosses - Barbon_61: 3670561485264578496
+      Streets of Rage 2 - Enemies & Bosses - Barbon_62: 1144324418438463757
+      Streets of Rage 2 - Enemies & Bosses - Barbon_63: -7587322385517831503
+      Streets of Rage 2 - Enemies & Bosses - Barbon_64: 6496731295550431412
+      Streets of Rage 2 - Enemies & Bosses - Barbon_65: 3867222550510889446
+      Streets of Rage 2 - Enemies & Bosses - Barbon_66: -198330078021471990
+      Streets of Rage 2 - Enemies & Bosses - Barbon_67: -4029424768722633832
+      Streets of Rage 2 - Enemies & Bosses - Barbon_68: -8274870262287424261
+      Streets of Rage 2 - Enemies & Bosses - Barbon_69: 8768874568016494094
+      Streets of Rage 2 - Enemies & Bosses - Barbon_7: 2470882266442319454
+      Streets of Rage 2 - Enemies & Bosses - Barbon_70: -2194997787842975829
+      Streets of Rage 2 - Enemies & Bosses - Barbon_71: 9177200505785820293
+      Streets of Rage 2 - Enemies & Bosses - Barbon_72: 3116918353029216031
+      Streets of Rage 2 - Enemies & Bosses - Barbon_73: -4251179922192690775
+      Streets of Rage 2 - Enemies & Bosses - Barbon_74: 3127389192098924495
+      Streets of Rage 2 - Enemies & Bosses - Barbon_75: -4408776160846520851
+      Streets of Rage 2 - Enemies & Bosses - Barbon_76: 4938843358946263104
+      Streets of Rage 2 - Enemies & Bosses - Barbon_77: 6921186827739508095
+      Streets of Rage 2 - Enemies & Bosses - Barbon_78: -6222237473375325442
+      Streets of Rage 2 - Enemies & Bosses - Barbon_79: 8567063754809624601
+      Streets of Rage 2 - Enemies & Bosses - Barbon_8: -2461781558647799780
+      Streets of Rage 2 - Enemies & Bosses - Barbon_80: -1584151296446678151
+      Streets of Rage 2 - Enemies & Bosses - Barbon_81: -2463648345529094730
+      Streets of Rage 2 - Enemies & Bosses - Barbon_82: 8106068140005149376
+      Streets of Rage 2 - Enemies & Bosses - Barbon_83: -1353311946322934925
+      Streets of Rage 2 - Enemies & Bosses - Barbon_84: -6876361650242813728
+      Streets of Rage 2 - Enemies & Bosses - Barbon_85: 1404576710666007647
+      Streets of Rage 2 - Enemies & Bosses - Barbon_86: 90468159534416394
+      Streets of Rage 2 - Enemies & Bosses - Barbon_87: -5328534878841437250
+      Streets of Rage 2 - Enemies & Bosses - Barbon_88: -6510152835711699032
+      Streets of Rage 2 - Enemies & Bosses - Barbon_89: 927291142030928020
+      Streets of Rage 2 - Enemies & Bosses - Barbon_9: 905468504361952333
+      Streets of Rage 2 - Enemies & Bosses - Barbon_90: -3078665460106880130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

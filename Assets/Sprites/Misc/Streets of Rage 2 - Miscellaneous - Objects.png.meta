@@ -1,0 +1,1694 @@
+fileFormatVersion: 2
+guid: dbbb9901bc6b0084e9ece028f1810a56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9038233200225985019
+    second: Streets of Rage 2 - Miscellaneous - Objects_0
+  - first:
+      213: -2830698574426701594
+    second: Streets of Rage 2 - Miscellaneous - Objects_1
+  - first:
+      213: -5674725599332604729
+    second: Streets of Rage 2 - Miscellaneous - Objects_2
+  - first:
+      213: 6229417955500140763
+    second: Streets of Rage 2 - Miscellaneous - Objects_3
+  - first:
+      213: 7839622095745056908
+    second: Streets of Rage 2 - Miscellaneous - Objects_4
+  - first:
+      213: 1071890598809804636
+    second: Streets of Rage 2 - Miscellaneous - Objects_5
+  - first:
+      213: -361289790724071880
+    second: Streets of Rage 2 - Miscellaneous - Objects_6
+  - first:
+      213: 2590952494651399125
+    second: Streets of Rage 2 - Miscellaneous - Objects_7
+  - first:
+      213: 988060013727904377
+    second: Streets of Rage 2 - Miscellaneous - Objects_8
+  - first:
+      213: -8047450510555495082
+    second: Streets of Rage 2 - Miscellaneous - Objects_9
+  - first:
+      213: 3104397258075101381
+    second: Streets of Rage 2 - Miscellaneous - Objects_10
+  - first:
+      213: 8705264123855362654
+    second: Streets of Rage 2 - Miscellaneous - Objects_11
+  - first:
+      213: -9111829749842252369
+    second: Streets of Rage 2 - Miscellaneous - Objects_12
+  - first:
+      213: -4455480831743397834
+    second: Streets of Rage 2 - Miscellaneous - Objects_13
+  - first:
+      213: 2022767849027832895
+    second: Streets of Rage 2 - Miscellaneous - Objects_14
+  - first:
+      213: -2818203292487124195
+    second: Streets of Rage 2 - Miscellaneous - Objects_15
+  - first:
+      213: -1504977361609306963
+    second: Streets of Rage 2 - Miscellaneous - Objects_16
+  - first:
+      213: 8360566334076428296
+    second: Streets of Rage 2 - Miscellaneous - Objects_17
+  - first:
+      213: 822306232463266082
+    second: Streets of Rage 2 - Miscellaneous - Objects_18
+  - first:
+      213: -4682075307415162442
+    second: Streets of Rage 2 - Miscellaneous - Objects_19
+  - first:
+      213: -1604037052126912411
+    second: Streets of Rage 2 - Miscellaneous - Objects_20
+  - first:
+      213: 7922371627602431515
+    second: Streets of Rage 2 - Miscellaneous - Objects_21
+  - first:
+      213: 8525088281899801472
+    second: Streets of Rage 2 - Miscellaneous - Objects_22
+  - first:
+      213: -85114335464419947
+    second: Streets of Rage 2 - Miscellaneous - Objects_23
+  - first:
+      213: -4175775284502488876
+    second: Streets of Rage 2 - Miscellaneous - Objects_24
+  - first:
+      213: 4185963920067143067
+    second: Streets of Rage 2 - Miscellaneous - Objects_25
+  - first:
+      213: -7416890517590610117
+    second: Streets of Rage 2 - Miscellaneous - Objects_26
+  - first:
+      213: 5949129535866275820
+    second: Streets of Rage 2 - Miscellaneous - Objects_27
+  - first:
+      213: -2145740233970971477
+    second: Streets of Rage 2 - Miscellaneous - Objects_28
+  - first:
+      213: 4228160008659300576
+    second: Streets of Rage 2 - Miscellaneous - Objects_29
+  - first:
+      213: -2934052554550526379
+    second: Streets of Rage 2 - Miscellaneous - Objects_30
+  - first:
+      213: -898837104181518074
+    second: Streets of Rage 2 - Miscellaneous - Objects_31
+  - first:
+      213: 232755120487175672
+    second: Streets of Rage 2 - Miscellaneous - Objects_32
+  - first:
+      213: 4702504568666039662
+    second: Streets of Rage 2 - Miscellaneous - Objects_33
+  - first:
+      213: 5411477284982474847
+    second: Streets of Rage 2 - Miscellaneous - Objects_34
+  - first:
+      213: 5076325660686661496
+    second: Streets of Rage 2 - Miscellaneous - Objects_35
+  - first:
+      213: 8308002865333571284
+    second: Streets of Rage 2 - Miscellaneous - Objects_36
+  - first:
+      213: 706831048284157716
+    second: Streets of Rage 2 - Miscellaneous - Objects_37
+  - first:
+      213: -5027459264837039332
+    second: Streets of Rage 2 - Miscellaneous - Objects_38
+  - first:
+      213: -5492719011989417678
+    second: Streets of Rage 2 - Miscellaneous - Objects_39
+  - first:
+      213: 6266312971357806021
+    second: Streets of Rage 2 - Miscellaneous - Objects_40
+  - first:
+      213: -5805263521160376935
+    second: Streets of Rage 2 - Miscellaneous - Objects_41
+  - first:
+      213: -886896753974662106
+    second: Streets of Rage 2 - Miscellaneous - Objects_42
+  - first:
+      213: -4246500974163524692
+    second: Streets of Rage 2 - Miscellaneous - Objects_43
+  - first:
+      213: -1468759944579928857
+    second: Streets of Rage 2 - Miscellaneous - Objects_44
+  - first:
+      213: 7398460660666445778
+    second: Streets of Rage 2 - Miscellaneous - Objects_45
+  - first:
+      213: -4189533341731577795
+    second: Streets of Rage 2 - Miscellaneous - Objects_46
+  - first:
+      213: -3915234737988388888
+    second: Streets of Rage 2 - Miscellaneous - Objects_47
+  - first:
+      213: -512131378985900779
+    second: Streets of Rage 2 - Miscellaneous - Objects_48
+  - first:
+      213: 3741437746287962386
+    second: Streets of Rage 2 - Miscellaneous - Objects_49
+  - first:
+      213: -6766590755730108433
+    second: Streets of Rage 2 - Miscellaneous - Objects_50
+  - first:
+      213: -2169883047623893149
+    second: Streets of Rage 2 - Miscellaneous - Objects_51
+  - first:
+      213: -6379016515662599913
+    second: Streets of Rage 2 - Miscellaneous - Objects_52
+  - first:
+      213: -5229221056972797459
+    second: Streets of Rage 2 - Miscellaneous - Objects_53
+  - first:
+      213: -1483166116384963107
+    second: Streets of Rage 2 - Miscellaneous - Objects_54
+  - first:
+      213: 6588973567761879894
+    second: Streets of Rage 2 - Miscellaneous - Objects_55
+  - first:
+      213: -4060053406124628825
+    second: Streets of Rage 2 - Miscellaneous - Objects_56
+  - first:
+      213: -3671571049050913340
+    second: Streets of Rage 2 - Miscellaneous - Objects_57
+  - first:
+      213: 8969462930159784217
+    second: Streets of Rage 2 - Miscellaneous - Objects_58
+  - first:
+      213: -426668675022170122
+    second: Streets of Rage 2 - Miscellaneous - Objects_59
+  - first:
+      213: -3336538602406861412
+    second: Streets of Rage 2 - Miscellaneous - Objects_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 299
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e536f7aceb19280800000000000000
+      internalID: -9038233200225985019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 299
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0871de4a657b8d0800000000000000
+      internalID: -2830698574426701594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 300
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4e6f522235f31b0800000000000000
+      internalID: -5674725599332604729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 299
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8a60b20a6537650800000000000000
+      internalID: 6229417955500140763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 299
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80003e82ceebcc60800000000000000
+      internalID: 7839622095745056908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 331
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f932c02de10ee00800000000000000
+      internalID: 1071890598809804636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e9aea79d07cfaf0800000000000000
+      internalID: -361289790724071880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbdb910199e4f320800000000000000
+      internalID: 2590952494651399125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 310
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972f407f85b46bd00800000000000000
+      internalID: 988060013727904377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 306
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655cdcad566b15090800000000000000
+      internalID: -8047450510555495082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 299
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c85341cbd8051b20800000000000000
+      internalID: 3104397258075101381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_11
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 299
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ad952299f4fc870800000000000000
+      internalID: 8705264123855362654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 299
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fade0da7e174c8180800000000000000
+      internalID: -9111829749842252369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 299
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6307f582ac3fa22c0800000000000000
+      internalID: -4455480831743397834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 299
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c826044a0521c10800000000000000
+      internalID: 2022767849027832895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 301
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bf776790bb3e8d0800000000000000
+      internalID: -2818203292487124195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 203
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacc546301f3d1be0800000000000000
+      internalID: -1504977361609306963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 203
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80027bfd8c2b60470800000000000000
+      internalID: 8360566334076428296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 203
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2211092692b696b00800000000000000
+      internalID: 822306232463266082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 231
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b134e9805de50fb0800000000000000
+      internalID: -4682075307415162442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 203
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5602965bcc05db9e0800000000000000
+      internalID: -1604037052126912411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 203
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e40e1550be1fd60800000000000000
+      internalID: 7922371627602431515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 203
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b9b71ef923f4670800000000000000
+      internalID: 8525088281899801472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_23
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 203
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d895d76fc91def0800000000000000
+      internalID: -85114335464419947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_24
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 205
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d89f51c08aac06c0800000000000000
+      internalID: -4175775284502488876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_25
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 245
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b952432d108871a30800000000000000
+      internalID: 4185963920067143067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 212
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f6c01ee59e11990800000000000000
+      internalID: -7416890517590610117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 212
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce708140bcd8f8250800000000000000
+      internalID: 5949129535866275820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 119
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac85e530acc832e0800000000000000
+      internalID: -2145740233970971477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 121
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e076a940217daa30800000000000000
+      internalID: 4228160008659300576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 119
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e30b53fb62847d0800000000000000
+      internalID: -2934052554550526379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 119
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601e15e7a60b683f0800000000000000
+      internalID: -898837104181518074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_32
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 119
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f59a448c89ea3300800000000000000
+      internalID: 232755120487175672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 119
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65adf18df6a24140800000000000000
+      internalID: 4702504568666039662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_34
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 119
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58c9716bed691b40800000000000000
+      internalID: 5411477284982474847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 119
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877bd69fa4bb27640800000000000000
+      internalID: 5076325660686661496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 150
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de822d9694fb4370800000000000000
+      internalID: 8308002865333571284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 156
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417b13de71b2fc900800000000000000
+      internalID: 706831048284157716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 152
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b44ac6f60ea3ab0800000000000000
+      internalID: -5027459264837039332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_39
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 146
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23116570921f5c3b0800000000000000
+      internalID: -5492719011989417678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_40
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 119
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5435727a66f650800000000000000
+      internalID: 6266312971357806021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_41
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 119
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dc3b9c59f8f6fa0800000000000000
+      internalID: -5805263521160376935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ca4eae91c11b3f0800000000000000
+      internalID: -886896753974662106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 78
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca302a8ecd56115c0800000000000000
+      internalID: -4246500974163524692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecadfabc9aed9be0800000000000000
+      internalID: -1468759944579928857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 70
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfa9bba5cc9ca660800000000000000
+      internalID: 7398460660666445778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 49
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d302f6f6f99cbd5c0800000000000000
+      internalID: -4189533341731577795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_47
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 81
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7bee5efba4aa9c0800000000000000
+      internalID: -3915234737988388888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 63
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515e635693b84e8f0800000000000000
+      internalID: -512131378985900779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 63
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2196bb8aec14ce330800000000000000
+      internalID: 3741437746287962386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_50
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefc3400f8d3812a0800000000000000
+      internalID: -6766590755730108433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_51
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f5c3e5dd603e1e0800000000000000
+      internalID: -2169883047623893149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_52
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 47
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719a497c64e2977a0800000000000000
+      internalID: -6379016515662599913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 69
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9c42f77231e67b0800000000000000
+      internalID: -5229221056972797459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_54
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 48
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd58af9764cba6be0800000000000000
+      internalID: -1483166116384963107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65392eccc8cb07b50800000000000000
+      internalID: 6588973567761879894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 11
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c546bd6595fb0dc0800000000000000
+      internalID: -3671571049050913340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 11
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9115532430fe97c70800000000000000
+      internalID: 8969462930159784217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_59
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 11
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f75484c91b241af0800000000000000
+      internalID: -426668675022170122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Miscellaneous - Objects_60
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c952920a1db32b1d0800000000000000
+      internalID: -3336538602406861412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 21baca5666bacaf448bd8ca10b1dbd49
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Streets of Rage 2 - Miscellaneous - Objects_0: -9038233200225985019
+      Streets of Rage 2 - Miscellaneous - Objects_1: -2830698574426701594
+      Streets of Rage 2 - Miscellaneous - Objects_10: 3104397258075101381
+      Streets of Rage 2 - Miscellaneous - Objects_11: 8705264123855362654
+      Streets of Rage 2 - Miscellaneous - Objects_12: -9111829749842252369
+      Streets of Rage 2 - Miscellaneous - Objects_13: -4455480831743397834
+      Streets of Rage 2 - Miscellaneous - Objects_14: 2022767849027832895
+      Streets of Rage 2 - Miscellaneous - Objects_15: -2818203292487124195
+      Streets of Rage 2 - Miscellaneous - Objects_16: -1504977361609306963
+      Streets of Rage 2 - Miscellaneous - Objects_17: 8360566334076428296
+      Streets of Rage 2 - Miscellaneous - Objects_18: 822306232463266082
+      Streets of Rage 2 - Miscellaneous - Objects_19: -4682075307415162442
+      Streets of Rage 2 - Miscellaneous - Objects_2: -5674725599332604729
+      Streets of Rage 2 - Miscellaneous - Objects_20: -1604037052126912411
+      Streets of Rage 2 - Miscellaneous - Objects_21: 7922371627602431515
+      Streets of Rage 2 - Miscellaneous - Objects_22: 8525088281899801472
+      Streets of Rage 2 - Miscellaneous - Objects_23: -85114335464419947
+      Streets of Rage 2 - Miscellaneous - Objects_24: -4175775284502488876
+      Streets of Rage 2 - Miscellaneous - Objects_25: 4185963920067143067
+      Streets of Rage 2 - Miscellaneous - Objects_26: -7416890517590610117
+      Streets of Rage 2 - Miscellaneous - Objects_27: 5949129535866275820
+      Streets of Rage 2 - Miscellaneous - Objects_28: -2145740233970971477
+      Streets of Rage 2 - Miscellaneous - Objects_29: 4228160008659300576
+      Streets of Rage 2 - Miscellaneous - Objects_3: 6229417955500140763
+      Streets of Rage 2 - Miscellaneous - Objects_30: -2934052554550526379
+      Streets of Rage 2 - Miscellaneous - Objects_31: -898837104181518074
+      Streets of Rage 2 - Miscellaneous - Objects_32: 232755120487175672
+      Streets of Rage 2 - Miscellaneous - Objects_33: 4702504568666039662
+      Streets of Rage 2 - Miscellaneous - Objects_34: 5411477284982474847
+      Streets of Rage 2 - Miscellaneous - Objects_35: 5076325660686661496
+      Streets of Rage 2 - Miscellaneous - Objects_36: 8308002865333571284
+      Streets of Rage 2 - Miscellaneous - Objects_37: 706831048284157716
+      Streets of Rage 2 - Miscellaneous - Objects_38: -5027459264837039332
+      Streets of Rage 2 - Miscellaneous - Objects_39: -5492719011989417678
+      Streets of Rage 2 - Miscellaneous - Objects_4: 7839622095745056908
+      Streets of Rage 2 - Miscellaneous - Objects_40: 6266312971357806021
+      Streets of Rage 2 - Miscellaneous - Objects_41: -5805263521160376935
+      Streets of Rage 2 - Miscellaneous - Objects_42: -886896753974662106
+      Streets of Rage 2 - Miscellaneous - Objects_43: -4246500974163524692
+      Streets of Rage 2 - Miscellaneous - Objects_44: -1468759944579928857
+      Streets of Rage 2 - Miscellaneous - Objects_45: 7398460660666445778
+      Streets of Rage 2 - Miscellaneous - Objects_46: -4189533341731577795
+      Streets of Rage 2 - Miscellaneous - Objects_47: -3915234737988388888
+      Streets of Rage 2 - Miscellaneous - Objects_48: -512131378985900779
+      Streets of Rage 2 - Miscellaneous - Objects_49: 3741437746287962386
+      Streets of Rage 2 - Miscellaneous - Objects_5: 1071890598809804636
+      Streets of Rage 2 - Miscellaneous - Objects_50: -6766590755730108433
+      Streets of Rage 2 - Miscellaneous - Objects_51: -2169883047623893149
+      Streets of Rage 2 - Miscellaneous - Objects_52: -6379016515662599913
+      Streets of Rage 2 - Miscellaneous - Objects_53: -5229221056972797459
+      Streets of Rage 2 - Miscellaneous - Objects_54: -1483166116384963107
+      Streets of Rage 2 - Miscellaneous - Objects_55: 6588973567761879894
+      Streets of Rage 2 - Miscellaneous - Objects_56: -4060053406124628825
+      Streets of Rage 2 - Miscellaneous - Objects_57: -3671571049050913340
+      Streets of Rage 2 - Miscellaneous - Objects_58: 8969462930159784217
+      Streets of Rage 2 - Miscellaneous - Objects_59: -426668675022170122
+      Streets of Rage 2 - Miscellaneous - Objects_6: -361289790724071880
+      Streets of Rage 2 - Miscellaneous - Objects_60: -3336538602406861412
+      Streets of Rage 2 - Miscellaneous - Objects_7: 2590952494651399125
+      Streets of Rage 2 - Miscellaneous - Objects_8: 988060013727904377
+      Streets of Rage 2 - Miscellaneous - Objects_9: -8047450510555495082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

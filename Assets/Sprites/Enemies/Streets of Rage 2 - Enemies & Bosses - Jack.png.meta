@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 5e052a2f926dff348a1a5606ec5aa157
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3821375900791083728
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_0
+  - first:
+      213: -5805908790949872564
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_1
+  - first:
+      213: 7171766396974939748
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_2
+  - first:
+      213: -8492904671845397654
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_3
+  - first:
+      213: 3165621770294954320
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_4
+  - first:
+      213: -1377916050205858538
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_5
+  - first:
+      213: 2928350242222845123
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_6
+  - first:
+      213: 6424720026243444045
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_7
+  - first:
+      213: 3385448250983148540
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_8
+  - first:
+      213: -440423908374613169
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_9
+  - first:
+      213: -1386663193351345158
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_10
+  - first:
+      213: 5379337342220035309
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_11
+  - first:
+      213: -2373504915801016603
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_12
+  - first:
+      213: 6460138110008061281
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_13
+  - first:
+      213: 7000823447996251107
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_14
+  - first:
+      213: 3065319194379741503
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_15
+  - first:
+      213: 1463306005025275536
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_16
+  - first:
+      213: -4951693115813383209
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_17
+  - first:
+      213: -5570704203693781369
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_18
+  - first:
+      213: 9150219662397065243
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_19
+  - first:
+      213: 1953761322746478503
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_20
+  - first:
+      213: 7956953363685935213
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_21
+  - first:
+      213: -1083183798522757677
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_22
+  - first:
+      213: -1291148656280695649
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_23
+  - first:
+      213: 7802811960200144487
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_24
+  - first:
+      213: -2616493607835338341
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_25
+  - first:
+      213: 5898458731746542907
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_26
+  - first:
+      213: -6322164354592853713
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_27
+  - first:
+      213: -2717886323599105898
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_28
+  - first:
+      213: 6099412689268429903
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_29
+  - first:
+      213: 7672887322988116648
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_30
+  - first:
+      213: -2467183131025857497
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_31
+  - first:
+      213: 7765402203561315829
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_32
+  - first:
+      213: -3899811052326286532
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_33
+  - first:
+      213: 1684944155781735861
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_34
+  - first:
+      213: -3805392591720731197
+    second: Streets of Rage 2 - Enemies & Bosses - Jack_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 744
+        width: 63
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03deb106ddeb7fac0800000000000000
+      internalID: -3821375900791083728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 744
+        width: 61
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c7d1537b44d6fa0800000000000000
+      internalID: -5805908790949872564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 744
+        width: 53
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e36c75a8b378360800000000000000
+      internalID: 7171766396974939748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 656
+        width: 58
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b4663c234232a80800000000000000
+      internalID: -8492904671845397654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 656
+        width: 62
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0598ca75a3c8eeb20800000000000000
+      internalID: 3165621770294954320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 656
+        width: 57
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615ab2127a8a0ece0800000000000000
+      internalID: -1377916050205858538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 656
+        width: 54
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc2f9db70793a820800000000000000
+      internalID: 2928350242222845123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 560
+        width: 59
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d249103d0392950800000000000000
+      internalID: 6424720026243444045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 560
+        width: 37
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb61555f378bfe20800000000000000
+      internalID: 3385448250983148540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 568
+        width: 61
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43fdbee9cc43e9f0800000000000000
+      internalID: -440423908374613169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 560
+        width: 57
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb2f292c2591cce0800000000000000
+      internalID: -1386663193351345158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 482
+        width: 86
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4e402dfce37aa40800000000000000
+      internalID: 5379337342220035309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 480
+        width: 96
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6790dbadd9f0fd0800000000000000
+      internalID: -2373504915801016603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 480
+        width: 80
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d6efe326507a950800000000000000
+      internalID: 6460138110008061281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 480
+        width: 51
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebba0185dbe72160800000000000000
+      internalID: 7000823447996251107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 384
+        width: 55
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39e03801933a8a20800000000000000
+      internalID: 3065319194379741503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 384
+        width: 58
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e3a330f05be4410800000000000000
+      internalID: 1463306005025275536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 384
+        width: 61
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3323ba85d084bb0800000000000000
+      internalID: -4951693115813383209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 386
+        width: 59
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e8e06aa02e0b2b0800000000000000
+      internalID: -5570704203693781369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 387
+        width: 75
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18c8f19d4c1cfe70800000000000000
+      internalID: 9150219662397065243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 100
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af733252972d1b10800000000000000
+      internalID: 1953761322746478503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 288
+        width: 75
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6889d03de6cc6e60800000000000000
+      internalID: 7956953363685935213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 288
+        width: 90
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddb79ef212c7f0f0800000000000000
+      internalID: -1083183798522757677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 75
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c8a2e432be41ee0800000000000000
+      internalID: -1291148656280695649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 201
+        width: 68
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76626e00328294c60800000000000000
+      internalID: 7802811960200144487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 201
+        width: 76
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99f4eb2de850bbd0800000000000000
+      internalID: -2616493607835338341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 201
+        width: 64
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35cd0417f88bd150800000000000000
+      internalID: 5898458731746542907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 201
+        width: 94
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f213bd804092348a0800000000000000
+      internalID: -6322164354592853713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 112
+        width: 55
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690abf5e9c0284ad0800000000000000
+      internalID: -2717886323599105898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 24
+        width: 52
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44da5a568775a450800000000000000
+      internalID: 6099412689268429903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 112
+        width: 75
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aafd481e529b7a60800000000000000
+      internalID: 7672887322988116648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 25
+        width: 44
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7242e57930ec2cdd0800000000000000
+      internalID: -2467183131025857497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 24
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdce49492044cb60800000000000000
+      internalID: 7765402203561315829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 112
+        width: 58
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b03fe828611e9c0800000000000000
+      internalID: -3899811052326286532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 112
+        width: 52
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5adbf48cf126710800000000000000
+      internalID: 1684944155781735861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 16
+        width: 98
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd25938997803bc0800000000000000
+      internalID: -3805392591720731197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 01befe4a82a081c48a2a65135809a596
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Streets of Rage 2 - Enemies & Bosses - Jack_0: -3821375900791083728
+      Streets of Rage 2 - Enemies & Bosses - Jack_1: -5805908790949872564
+      Streets of Rage 2 - Enemies & Bosses - Jack_10: -1386663193351345158
+      Streets of Rage 2 - Enemies & Bosses - Jack_11: 5379337342220035309
+      Streets of Rage 2 - Enemies & Bosses - Jack_12: -2373504915801016603
+      Streets of Rage 2 - Enemies & Bosses - Jack_13: 6460138110008061281
+      Streets of Rage 2 - Enemies & Bosses - Jack_14: 7000823447996251107
+      Streets of Rage 2 - Enemies & Bosses - Jack_15: 3065319194379741503
+      Streets of Rage 2 - Enemies & Bosses - Jack_16: 1463306005025275536
+      Streets of Rage 2 - Enemies & Bosses - Jack_17: -4951693115813383209
+      Streets of Rage 2 - Enemies & Bosses - Jack_18: -5570704203693781369
+      Streets of Rage 2 - Enemies & Bosses - Jack_19: 9150219662397065243
+      Streets of Rage 2 - Enemies & Bosses - Jack_2: 7171766396974939748
+      Streets of Rage 2 - Enemies & Bosses - Jack_20: 1953761322746478503
+      Streets of Rage 2 - Enemies & Bosses - Jack_21: 7956953363685935213
+      Streets of Rage 2 - Enemies & Bosses - Jack_22: -1083183798522757677
+      Streets of Rage 2 - Enemies & Bosses - Jack_23: -1291148656280695649
+      Streets of Rage 2 - Enemies & Bosses - Jack_24: 7802811960200144487
+      Streets of Rage 2 - Enemies & Bosses - Jack_25: -2616493607835338341
+      Streets of Rage 2 - Enemies & Bosses - Jack_26: 5898458731746542907
+      Streets of Rage 2 - Enemies & Bosses - Jack_27: -6322164354592853713
+      Streets of Rage 2 - Enemies & Bosses - Jack_28: -2717886323599105898
+      Streets of Rage 2 - Enemies & Bosses - Jack_29: 6099412689268429903
+      Streets of Rage 2 - Enemies & Bosses - Jack_3: -8492904671845397654
+      Streets of Rage 2 - Enemies & Bosses - Jack_30: 7672887322988116648
+      Streets of Rage 2 - Enemies & Bosses - Jack_31: -2467183131025857497
+      Streets of Rage 2 - Enemies & Bosses - Jack_32: 7765402203561315829
+      Streets of Rage 2 - Enemies & Bosses - Jack_33: -3899811052326286532
+      Streets of Rage 2 - Enemies & Bosses - Jack_34: 1684944155781735861
+      Streets of Rage 2 - Enemies & Bosses - Jack_35: -3805392591720731197
+      Streets of Rage 2 - Enemies & Bosses - Jack_4: 3165621770294954320
+      Streets of Rage 2 - Enemies & Bosses - Jack_5: -1377916050205858538
+      Streets of Rage 2 - Enemies & Bosses - Jack_6: 2928350242222845123
+      Streets of Rage 2 - Enemies & Bosses - Jack_7: 6424720026243444045
+      Streets of Rage 2 - Enemies & Bosses - Jack_8: 3385448250983148540
+      Streets of Rage 2 - Enemies & Bosses - Jack_9: -440423908374613169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

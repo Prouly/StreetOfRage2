@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: ea6cbc25ba055344f8754e1606a2c5ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4332623519269740756
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_0
+  - first:
+      213: 1165661688195793348
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_1
+  - first:
+      213: 6207034316441713429
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_2
+  - first:
+      213: -2828479325497506840
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_3
+  - first:
+      213: 625218726771219788
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_4
+  - first:
+      213: 6972677782732212900
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_5
+  - first:
+      213: -3556458297340829843
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_6
+  - first:
+      213: 2768302111148040281
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_7
+  - first:
+      213: 6581298420485066637
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_8
+  - first:
+      213: -2583241065522010717
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_9
+  - first:
+      213: 1356085563719750715
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_10
+  - first:
+      213: 8945807874548624216
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_11
+  - first:
+      213: -6732305432300943278
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_12
+  - first:
+      213: -4378441307525029310
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_13
+  - first:
+      213: -6566785423524558711
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_14
+  - first:
+      213: -1822049806904657098
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_15
+  - first:
+      213: -3587737337641307077
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_16
+  - first:
+      213: -6794792765437864290
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_17
+  - first:
+      213: 936172023427207516
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_18
+  - first:
+      213: -7670801840675798442
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_19
+  - first:
+      213: 9064214788474989650
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_20
+  - first:
+      213: 3855825351172589424
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_21
+  - first:
+      213: 4084377207773954973
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_22
+  - first:
+      213: 190695192927839814
+    second: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d06393b222902c30800000000000000
+      internalID: 4332623519269740756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1413521234d2010800000000000000
+      internalID: 1165661688195793348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bfa2413d0d32650800000000000000
+      internalID: 6207034316441713429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e34f251a093fb8d0800000000000000
+      internalID: -2828479325497506840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dde149e193da800800000000000000
+      internalID: 625218726771219788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa0305208de3c060800000000000000
+      internalID: 6972677782732212900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f5280850ce4aec0800000000000000
+      internalID: -3556458297340829843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95061fd5a1cfa6620800000000000000
+      internalID: 2768302111148040281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f0ad15b08755b50800000000000000
+      internalID: 6581298420485066637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5eb5000fb762cd0800000000000000
+      internalID: -2583241065522010717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b341d86a2a8c1d210800000000000000
+      internalID: 1356085563719750715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bec5f6dd4e52c70800000000000000
+      internalID: 8945807874548624216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258054ce0eb0292a0800000000000000
+      internalID: -6732305432300943278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e21b24d6ac33c0800000000000000
+      internalID: -4378441307525029310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9880b9a13771ed4a0800000000000000
+      internalID: -6566785423524558711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bf060ba57c6b6e0800000000000000
+      internalID: -1822049806904657098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34fb7a66ebc53ec0800000000000000
+      internalID: -3587737337641307077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e969eadeafb04b1a0800000000000000
+      internalID: -6794792765437864290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c519909ce73fdfc00800000000000000
+      internalID: 936172023427207516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6524b181e56db8590800000000000000
+      internalID: -7670801840675798442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ce4ea635f8acd70800000000000000
+      internalID: 9064214788474989650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07786945ab4a28530800000000000000
+      internalID: 3855825351172589424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9381163e6f9ea830800000000000000
+      internalID: 4084377207773954973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646a6d2844c75a200800000000000000
+      internalID: 190695192927839814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_0: 4332623519269740756
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_1: 1165661688195793348
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_10: 1356085563719750715
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_11: 8945807874548624216
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_12: -6732305432300943278
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_13: -4378441307525029310
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_14: -6566785423524558711
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_15: -1822049806904657098
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_16: -3587737337641307077
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_17: -6794792765437864290
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_18: 936172023427207516
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_19: -7670801840675798442
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_2: 6207034316441713429
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_20: 9064214788474989650
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_21: 3855825351172589424
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_22: 4084377207773954973
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_23: 190695192927839814
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_3: -2828479325497506840
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_4: 625218726771219788
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_5: 6972677782732212900
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_6: -3556458297340829843
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_7: 2768302111148040281
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_8: 6581298420485066637
+      Sega Genesis - Streets of Rage 2 - Miscellaneous - HP Icons_9: -2583241065522010717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
