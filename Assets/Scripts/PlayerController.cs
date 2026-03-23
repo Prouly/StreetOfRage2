@@ -1,8 +1,17 @@
 using UnityEngine;
 
 /// <summary>
-/// PlayerController v7 — con sistema de ataque y recogida
+/// PlayerController v8
+///
+/// CONTROLES:
+///   Movimiento  → WASD / flechas
+///   Salto       → Space
+///   Golpe/Recoger → P o Fire1 (Z)
+///   Special1    → O
+///   Special2    → K
+///   Gancho      → Doble tap adelante + P
 /// </summary>
+
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Animator))]
 public class PlayerController : MonoBehaviour
@@ -27,20 +36,17 @@ public class PlayerController : MonoBehaviour
     }
 
     [Header("Ataque")]
-    [Tooltip("GameObject hijo AttackHitbox")]
     public GameObject attackHitbox;
-
-    [Tooltip("Duración en segundos que el hitbox está activo")]
-    public float attackHitboxDuration = 0.2f;
-
-    [Tooltip("Cooldown entre ataques")]
-    public float attackCooldown = 0.4f;
+    public float      attackHitboxDuration = 0.2f;
+    public float      attackCooldown       = 0.4f;
 
     [Header("Recogida")]
-    [Tooltip("Radio de detección de objetos recogibles")]
-    public float pickupRadius = 0.5f;
-    [Tooltip("Layer de objetos recogibles")]
+    public float     pickupRadius  = 0.5f;
     public LayerMask pickableLayer;
+
+    [Header("Doble tap (Gancho)")]
+    [Tooltip("Tiempo máximo entre dos taps adelante para activar el Gancho")]
+    public float doubleTapWindow = 0.3f;
 
     // ── Componentes ──────────────────────────────────────────
     private Rigidbody2D    rb;
@@ -50,14 +56,19 @@ public class PlayerController : MonoBehaviour
     // ── Input ────────────────────────────────────────────────
     private Vector2 moveInput;
 
-    // ── Estado del salto ─────────────────────────────────────
+    // ── Estado salto ─────────────────────────────────────────
     private bool  isJumping;
     private float jumpTimer;
     private float jumpStartY;
 
-    // ── Estado del ataque ────────────────────────────────────
+    // ── Estado ataque ────────────────────────────────────────
     private bool  isAttacking;
     private float attackCooldownTimer;
+
+    // ── Doble tap adelante ───────────────────────────────────
+    private float lastForwardTapTime  = -999f;
+    private bool  doubleTapReady      = false;  // true tras el primer tap
+    private bool  ganchoArmed         = false;  // true tras doble tap confirmado
 
     // ── Hashes Animator ──────────────────────────────────────
     private static readonly int AnimIsWalking  = Animator.StringToHash("isWalking");
@@ -66,6 +77,9 @@ public class PlayerController : MonoBehaviour
     private static readonly int AnimAttack     = Animator.StringToHash("Attack");
     private static readonly int AnimJumpAttack = Animator.StringToHash("JumpAttack");
     private static readonly int AnimPickUp     = Animator.StringToHash("PickUp");
+    private static readonly int AnimSpecial1   = Animator.StringToHash("Axel_Special1");
+    private static readonly int AnimSpecial2   = Animator.StringToHash("Axel_Special2");
+    private static readonly int AnimGancho     = Animator.StringToHash("Axel_Gancho");
     private static readonly int AnimHurt       = Animator.StringToHash("Hurt");
     private static readonly int AnimDeath      = Animator.StringToHash("Death");
 
@@ -79,7 +93,6 @@ public class PlayerController : MonoBehaviour
         rb.gravityScale   = 0f;
         rb.freezeRotation = true;
 
-        // El hitbox empieza desactivado siempre
         if (attackHitbox != null)
             attackHitbox.SetActive(false);
     }
@@ -104,7 +117,6 @@ public class PlayerController : MonoBehaviour
 
     private void GatherInput()
     {
-        // Bloquea movimiento durante el ataque
         if (!isAttacking)
         {
             moveInput.x = Input.GetAxisRaw("Horizontal");
@@ -115,16 +127,67 @@ public class PlayerController : MonoBehaviour
             moveInput = Vector2.zero;
         }
 
+        // Salto
         if (Input.GetButtonDown("Jump") && !isJumping && !isAttacking)
             StartJump();
 
-        // Ataque (Fire1 = Z o click izquierdo por defecto)
-        if (Input.GetButtonDown("Fire1") && attackCooldownTimer <= 0f)
-            StartAttack();
+        // ── Doble tap (cualquier dirección horizontal) ────────
+        // Detecta dos pulsaciones de la misma dirección (izq+izq o der+der)
+        // dentro de doubleTapWindow segundos → arma el Gancho
+        bool tapRight = Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow);
+        bool tapLeft  = Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow);
+        bool tapAny   = tapRight || tapLeft;
 
-        // Recogida (Fire2 = X por defecto)
-        if (Input.GetButtonDown("Fire2"))
-            TryPickup();
+        if (tapAny)
+        {
+            float now = Time.time;
+            if (doubleTapReady && (now - lastForwardTapTime) <= doubleTapWindow)
+            {
+                // Segundo tap dentro del tiempo → Gancho armado
+                ganchoArmed    = true;
+                doubleTapReady = false;
+            }
+            else
+            {
+                // Primer tap
+                doubleTapReady      = true;
+                ganchoArmed         = false;
+                lastForwardTapTime  = now;
+            }
+        }
+
+        // Si el tiempo expira, resetea todo
+        if (doubleTapReady && Time.time - lastForwardTapTime > doubleTapWindow)
+        {
+            doubleTapReady = false;
+            ganchoArmed    = false;
+        }
+
+        // ── Golpe / Recoger (P o Fire1) ───────────────────────
+        bool attackPressed = Input.GetKeyDown(KeyCode.P) || Input.GetButtonDown("Fire1");
+
+        if (attackPressed && attackCooldownTimer <= 0f)
+        {
+            if (ganchoArmed)
+            {
+                // Doble tap confirmado + P → Gancho
+                ganchoArmed    = false;
+                doubleTapReady = false;
+                StartSpecialMove(AnimGancho);
+            }
+            else if (TryPickup())
+            { /* recogida ejecutada */ }
+            else
+                StartAttack();
+        }
+
+        // ── Special1 (O) ──────────────────────────────────────
+        if (Input.GetKeyDown(KeyCode.O) && !isAttacking)
+            StartSpecialMove(AnimSpecial1);
+
+        // ── Special2 (I) ──────────────────────────────────────
+        if (Input.GetKeyDown(KeyCode.I) && !isAttacking)
+            StartSpecialMove(AnimSpecial2);
     }
 
     // ── Movimiento ────────────────────────────────────────────
@@ -135,6 +198,58 @@ public class PlayerController : MonoBehaviour
             moveInput.x * moveSpeedX,
             moveInput.y * moveSpeedY
         );
+    }
+
+    // ── Ataque normal ─────────────────────────────────────────
+
+    private void StartAttack()
+    {
+        isAttacking         = true;
+        attackCooldownTimer = attackCooldown;
+        animator.SetTrigger(isJumping ? AnimJumpAttack : AnimAttack);
+
+        if (attackHitbox != null)
+            StartCoroutine(ActivateHitbox(attackHitboxDuration));
+    }
+
+    // ── Movimientos especiales ────────────────────────────────
+
+    private void StartSpecialMove(int animHash)
+    {
+        isAttacking         = true;
+        attackCooldownTimer = attackCooldown;
+        animator.SetTrigger(animHash);
+
+        if (attackHitbox != null)
+            StartCoroutine(ActivateHitbox(attackHitboxDuration));
+    }
+
+    private System.Collections.IEnumerator ActivateHitbox(float duration)
+    {
+        attackHitbox.SetActive(true);
+        yield return new WaitForSeconds(duration);
+        attackHitbox.SetActive(false);
+        isAttacking = false;
+    }
+
+    // ── Recogida ──────────────────────────────────────────────
+    // Devuelve true si había un objeto recogible cerca
+
+    private bool TryPickup()
+    {
+        Collider2D hit = Physics2D.OverlapCircle(
+            transform.position, pickupRadius, pickableLayer);
+
+        Debug.Log($"[Pickup] Buscando en radio {pickupRadius} | Layer mask: {pickableLayer.value} | Hit: {(hit != null ? hit.name : "null")}");
+        
+        if (hit == null) return false;
+
+        Pickable pickable = hit.GetComponent<Pickable>();
+        if (pickable == null) return false;
+
+        animator.SetTrigger(AnimPickUp);
+        pickable.Collect(this);
+        return true;
     }
 
     // ── Límite superior dinámico ──────────────────────────────
@@ -150,7 +265,7 @@ public class PlayerController : MonoBehaviour
         {
             pos.y = currentMaxY;
             transform.position = pos;
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+            rb.linearVelocity  = new Vector2(rb.linearVelocity.x, 0f);
         }
     }
 
@@ -177,48 +292,6 @@ public class PlayerController : MonoBehaviour
             }
         }
         return upperBoundZones[upperBoundZones.Length - 1].maxY;
-    }
-
-    // ── Ataque ────────────────────────────────────────────────
-
-    private void StartAttack()
-    {
-        isAttacking = true;
-        attackCooldownTimer = attackCooldown;
-
-        animator.SetTrigger(isJumping ? AnimJumpAttack : AnimAttack);
-
-        if (attackHitbox != null)
-            StartCoroutine(ActivateHitbox());
-    }
-
-    private System.Collections.IEnumerator ActivateHitbox()
-    {
-        attackHitbox.SetActive(true);
-        yield return new WaitForSeconds(attackHitboxDuration);
-        attackHitbox.SetActive(false);
-        isAttacking = false;
-    }
-
-    // ── Recogida ──────────────────────────────────────────────
-    // El jugador pulsa Fire2 cerca de un objeto recogible.
-    // Se ejecuta la animación PickUp y el objeto se consume.
-
-    private void TryPickup()
-    {
-        Collider2D hit = Physics2D.OverlapCircle(
-            transform.position, pickupRadius, pickableLayer);
-
-        if (hit == null) return;
-
-        Pickable pickable = hit.GetComponent<Pickable>();
-        if (pickable == null) return;
-
-        // Animación de recogida
-        animator.SetTrigger(AnimPickUp);
-
-        // Aplicar efecto del objeto
-        pickable.Collect(this);
     }
 
     // ── Salto ─────────────────────────────────────────────────
@@ -286,19 +359,15 @@ public class PlayerController : MonoBehaviour
 
     private void OnDrawGizmosSelected()
     {
-        // Radio de recogida (azul)
         Gizmos.color = new Color(0.2f, 0.6f, 1f, 0.4f);
         Gizmos.DrawWireSphere(transform.position, pickupRadius);
 
-        // Zonas de límite superior (verde)
         if (upperBoundZones == null) return;
         for (int i = 0; i < upperBoundZones.Length; i++)
         {
             var z = upperBoundZones[i];
             Gizmos.color = new Color(0f, 1f, 0.3f, 0.9f);
             Gizmos.DrawLine(new Vector3(z.xStart, z.maxY, 0f), new Vector3(z.xEnd, z.maxY, 0f));
-            Gizmos.DrawWireSphere(new Vector3(z.xStart, z.maxY, 0f), 0.1f);
-            Gizmos.DrawWireSphere(new Vector3(z.xEnd,   z.maxY, 0f), 0.1f);
             if (i < upperBoundZones.Length - 1)
             {
                 Gizmos.color = new Color(1f, 0.9f, 0f, 0.6f);

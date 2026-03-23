@@ -23,11 +23,13 @@ public class BreakableObject : MonoBehaviour
     private SpriteRenderer sr;
     private Animator       anim;
     private bool           broken = false;
+    private Vector3        originalPosition;
 
     private void Awake()
     {
-        sr   = GetComponentInChildren<SpriteRenderer>();
-        anim = GetComponent<Animator>();
+        sr               = GetComponentInChildren<SpriteRenderer>();
+        anim             = GetComponent<Animator>();
+        originalPosition = transform.position;
     }
 
     /// <summary>
@@ -84,10 +86,10 @@ public class BreakableObject : MonoBehaviour
             }
         }
 
-        // 4 — Spawn drop
+        // 4 — Spawn drop en la posición ORIGINAL (antes del knockback)
         if (dropPrefab != null)
         {
-            Vector3 spawnPos = transform.position + new Vector3(dropOffset.x, dropOffset.y, 0f);
+            Vector3 spawnPos = originalPosition + new Vector3(dropOffset.x, dropOffset.y, 0f);
             Instantiate(dropPrefab, spawnPos, Quaternion.identity);
         }
 

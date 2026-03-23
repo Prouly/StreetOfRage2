@@ -1,22 +1,30 @@
 using UnityEngine;
 
+/// <summary>
+/// AttackHitbox — Hitbox del jugador
+/// Usa EnemyBase para detectar cualquier tipo de enemigo.
+/// </summary>
 public class AttackHitbox : MonoBehaviour
 {
+    [Tooltip("Daño que inflige cada golpe")]
+    public int damage = 1;
+
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log($"[AttackHitbox] Tocando: {other.gameObject.name} | Layer: {LayerMask.LayerToName(other.gameObject.layer)}");
-
+        // ── Objeto rompible ───────────────────────────────────
         BreakableObject breakable = other.GetComponent<BreakableObject>();
         if (breakable != null)
         {
-            // Pasamos la X del Player (padre del hitbox) para calcular dirección
-            float attackerX = transform.root.position.x;
-            breakable.TakeHit(attackerX);
+            breakable.TakeHit(transform.root.position.x);
             return;
         }
 
-        // Enemigos en el futuro:
-        // EnemyController enemy = other.GetComponent<EnemyController>();
-        // if (enemy != null) enemy.TakeHit(damage, transform.root.position.x);
+        // ── Cualquier enemigo (Galsia, Jack, Donovan...) ──────
+        EnemyBase enemy = other.GetComponent<EnemyBase>();
+        if (enemy != null)
+        {
+            enemy.TakeHit(damage, transform.root.position.x);
+            return;
+        }
     }
 }
