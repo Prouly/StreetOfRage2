@@ -79,7 +79,7 @@ public abstract class EnemyBase : MonoBehaviour
 
     protected virtual void Update()
     {
-        if (isDead || player == null) return; // ya estaba
+        if (isDead || player == null) return;
 
         attackTimer -= Time.deltaTime;
 
@@ -98,8 +98,6 @@ public abstract class EnemyBase : MonoBehaviour
 
         if (dist <= attackRange && attackTimer <= 0f)
             StartCoroutine(AttackRoutine());
-        else if (dist <= attackRange) // Ya en rango pero cooldown activo → parar
-            rb.linearVelocity = Vector2.zero;
         else if (dist <= detectionRange)
             ChasePlayer();
         else
@@ -127,7 +125,6 @@ public abstract class EnemyBase : MonoBehaviour
         if (enemyHitbox != null)
         {
             enemyHitbox.SetActive(true);
-            Debug.Log($"[{gameObject.name}] ¡Golpea al player!");
             yield return new WaitForSeconds(attackHitboxDuration);
             enemyHitbox.SetActive(false);
         }
@@ -138,19 +135,15 @@ public abstract class EnemyBase : MonoBehaviour
     }
 
     // ── Recibir daño ──────────────────────────────────────────
+
     public virtual void TakeHit(int dmg, float attackerX)
     {
-        if (isDead) return;
+        if (isDead || isHurt) return;
 
         currentHP -= dmg;
         Debug.Log($"[{gameObject.name}] HP restante: {currentHP}/{maxHP}");
-
         if (currentHP <= 0)
-        {
-            isDead = true;          // ✅ Marca muerto ANTES de StopAllCoroutines
-            StopAllCoroutines();    // Cancela HurtRoutine si estaba activa
             StartCoroutine(DieRoutine(attackerX));
-        }
         else
             StartCoroutine(HurtRoutine(attackerX));
     }
@@ -168,25 +161,51 @@ public abstract class EnemyBase : MonoBehaviour
 
     protected virtual IEnumerator DieRoutine(float attackerX)
     {
-        //isDead = true;
-        StopAllCoroutines(); // ojo: esto cancela DieRoutine también si se llama mal
-        rb.linearVelocity = Vector2.zero;
+        isDead = true;
+        rb.linearVelocity = UnityEngine.Vector2.zero;
 
         Collider2D col = GetComponent<Collider2D>();
         if (col != null) col.enabled = false;
 
-        animator.ResetTrigger(AnimHit);
-        animator.ResetTrigger(AnimPunch);
-        animator.SetBool(AnimIsWalking, false);
-        animator.SetTrigger(AnimFloor);
+        // Desactiva el hitbox del enemigo si existe
+        if (enemyHitbox != null) enemyHitbox.SetActive(false);
 
+        animator.SetTrigger(AnimFloor);
         yield return StartCoroutine(ApplyKnockback(attackerX, 2f));
 
-        // Espera a que termine la animación Floor y ENTONCES congela el último frame
-        yield return new WaitForSeconds(1.2f);
-        animator.speed = 0f; // ✅ Congela el último frame de Floor
-        yield return new WaitForSeconds(0.5f); // pequeña pausa congelado
+        // Espera la duración real del clip Floor
+        float floorDuration = GetAnimationClipLength("Floor");
+        if (floorDuration <= 0f) floorDuration = 1.5f; // fallback
+        yield return new WaitForSeconds(floorDuration);
+
+        // Fade out antes de destruir
+        if (sr != null)
+        {
+            float elapsed  = 0f;
+            float fadeDur  = 0.4f;
+            Color original = sr.color;
+            while (elapsed < fadeDur)
+            {
+                elapsed  += Time.deltaTime;
+                sr.color  = new Color(original.r, original.g, original.b,
+                    Mathf.Lerp(1f, 0f, elapsed / fadeDur));
+                yield return null;
+            }
+        }
+
         Destroy(gameObject);
+    }
+
+    /// <summary>Devuelve la duración en segundos del clip con ese nombre.</summary>
+    private float GetAnimationClipLength(string clipName)
+    {
+        if (animator == null) return 0f;
+        foreach (AnimationClip clip in animator.runtimeAnimatorController.animationClips)
+        {
+            if (clip.name.Contains(clipName))
+                return clip.length;
+        }
+        return 0f;
     }
 
     protected IEnumerator ApplyKnockback(float attackerX, float multiplier)
@@ -210,7 +229,6 @@ public abstract class EnemyBase : MonoBehaviour
 
     protected virtual void UpdateAnimations()
     {
-        if (isDead) return; // Si está muerto no toques el Animator
         bool moving = rb.linearVelocity.sqrMagnitude > 0.01f && !isHurt && !isAttacking;
         animator.SetBool(AnimIsWalking, moving);
     }
