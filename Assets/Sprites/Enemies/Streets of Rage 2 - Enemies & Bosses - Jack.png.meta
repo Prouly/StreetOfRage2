@@ -904,11 +904,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 82
-        y: 25
-        width: 44
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 33
+        width: 19
+        height: 5
+      alignment: 9
+      pivot: {x: 0.86019015, y: 0.28144726}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -929,8 +929,8 @@ TextureImporter:
         y: 24
         width: 14
         height: 14
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.7962603, y: 0.79990196}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -992,11 +992,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 302
-        y: 16
+        y: 111
         width: 98
-        height: 172
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 77
+      alignment: 9
+      pivot: {x: 0.78948194, y: 0.076226965}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1005,6 +1005,50 @@ TextureImporter:
       bones: []
       spriteID: 3cd25938997803bc0800000000000000
       internalID: -3805392591720731197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 26
+        width: 7
+        height: 20
+      alignment: 9
+      pivot: {x: 0.52962494, y: 0.18892422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e286a7e23926d2c47bbcd010b83305a3
+      internalID: 1520345909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 2 - Enemies & Bosses - Jack_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.83181155, y: 0.18892634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a77a446429e53479ad94695352587a
+      internalID: 1192498202
       vertices: []
       indices: 
       edges: []
@@ -1053,6 +1097,8 @@ TextureImporter:
       Streets of Rage 2 - Enemies & Bosses - Jack_33: -3899811052326286532
       Streets of Rage 2 - Enemies & Bosses - Jack_34: 1684944155781735861
       Streets of Rage 2 - Enemies & Bosses - Jack_35: -3805392591720731197
+      Streets of Rage 2 - Enemies & Bosses - Jack_36: 1520345909
+      Streets of Rage 2 - Enemies & Bosses - Jack_37: 1192498202
       Streets of Rage 2 - Enemies & Bosses - Jack_4: 3165621770294954320
       Streets of Rage 2 - Enemies & Bosses - Jack_5: -1377916050205858538
       Streets of Rage 2 - Enemies & Bosses - Jack_6: 2928350242222845123

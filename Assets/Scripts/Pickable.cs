@@ -1,6 +1,5 @@
 using UnityEngine;
 
-/// <summary>
 /// Pickable — Objeto recogible estilo SOR2
 ///
 /// SETUP en Unity:
@@ -12,36 +11,30 @@ using UnityEngine;
 /// TIPOS:
 ///   Health → restaura vida al jugador
 ///   Points → suma puntos al GameManager
-/// </summary>
+
 public class Pickable : MonoBehaviour
 {
     public enum PickupType { Health, Points }
-
-    [Header("Tipo")]
-    public PickupType pickupType = PickupType.Health;
-
-    [Header("Valor")]
+ 
+    [SerializeField] private PickupType pickupType = PickupType.Health;
+ 
     [Tooltip("Cantidad de vida o puntos que otorga")]
-    public int value = 50;
-
-    // El jugador llama a este método al recogerlo
+    [SerializeField] private int value = 50;
+ 
     public void Collect(PlayerController player)
     {
         switch (pickupType)
         {
             case PickupType.Health:
-                // Conecta aquí con tu sistema de vida cuando lo tengas
-                // player.Heal(value);
-                Debug.Log($"[Pickable] Vida recuperada: {value}");
+                player.Heal(value);
                 break;
-
+ 
             case PickupType.Points:
-                // Conecta aquí con tu GameManager cuando lo tengas
-                // GameManager.Instance.AddPoints(value);
-                Debug.Log($"[Pickable] Puntos sumados: {value}");
+                AudioManager.Instance?.PlaySFX(AudioManager.Instance.pickUpPoints);
+                GameManager.Instance?.AddScoreSilent(value);
+                Debug.Log($"[Pickable] Puntos: +{value}");
                 break;
         }
-
         Destroy(gameObject);
     }
 }

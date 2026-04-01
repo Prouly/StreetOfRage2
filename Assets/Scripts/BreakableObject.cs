@@ -4,12 +4,12 @@ using UnityEngine;
 public class BreakableObject : MonoBehaviour
 {
     [Header("Drop")]
-    public GameObject dropPrefab;
-    public Vector2    dropOffset = new Vector2(0f, 0.5f);
+    [SerializeField] private GameObject dropPrefab;
+    [SerializeField] private Vector2    dropOffset = new Vector2(0f, 0.5f);
 
     [Header("Animación")]
-    public string crushTrigger  = "Crush";
-    public float  crushDuration = 0.4f;
+    [SerializeField] private string crushTrigger  = "Crush";
+    [SerializeField] private float  crushDuration = 0.4f;
 
     [Header("Fade")]
     public float fadeDuration = 0.2f;
@@ -23,21 +23,23 @@ public class BreakableObject : MonoBehaviour
     private SpriteRenderer sr;
     private Animator       anim;
     private bool           broken = false;
+    private Vector3        originalPosition;
 
     private void Awake()
     {
-        sr   = GetComponentInChildren<SpriteRenderer>();
-        anim = GetComponent<Animator>();
+        sr               = GetComponentInChildren<SpriteRenderer>();
+        anim             = GetComponent<Animator>();
+        originalPosition = transform.position;
     }
+    
+    // attackerX — posición X del atacante para saber hacia dónde empujar
 
-    /// <summary>
-    /// attackerX — posición X del atacante para saber hacia dónde empujar
-    /// </summary>
     public void TakeHit(float attackerX)
     {
         if (broken) return;
         broken = true;
 
+        AudioManager.Instance?.PlaySFX(AudioManager.Instance.crush);
         Collider2D col = GetComponent<Collider2D>();
         if (col != null) col.enabled = false;
 
@@ -84,10 +86,10 @@ public class BreakableObject : MonoBehaviour
             }
         }
 
-        // 4 — Spawn drop
+        // 4 — Spawn drop en la posición ORIGINAL (antes del knockback)
         if (dropPrefab != null)
         {
-            Vector3 spawnPos = transform.position + new Vector3(dropOffset.x, dropOffset.y, 0f);
+            Vector3 spawnPos = originalPosition + new Vector3(dropOffset.x, dropOffset.y, 0f);
             Instantiate(dropPrefab, spawnPos, Quaternion.identity);
         }
 

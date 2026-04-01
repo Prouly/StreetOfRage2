@@ -1,7 +1,7 @@
 using UnityEngine;
 using Unity.Cinemachine;
 
-/// <summary>
+
 /// CinemachinePositionClamp — Extension para Cinemachine Camera
 ///
 /// SETUP:
@@ -16,18 +16,18 @@ using Unity.Cinemachine;
 ///   - Verás rectángulos verdes por zona y líneas amarillas para límites X
 ///   - Entra en Play, mueve al jugador a cada esquina del escenario
 ///     y anota las coordenadas X e Y — esos son tus valores
-/// </summary>
+
 public class CinemachinePositionClamp : CinemachineExtension
 {
     [Header("Target")]
     public Transform player;
 
     [Header("Límites X")]
-    public float minX = -8f;
-    public float maxX = 100f;
+    [SerializeField] private float minX = -8f;
+    [SerializeField] private float maxX = 100f;
 
     [Header("Zonas Y (una por sección del nivel)")]
-    public CameraZone[] zones;
+    [SerializeField] private CameraZone[] zones;
 
     [System.Serializable]
     public struct CameraZone
