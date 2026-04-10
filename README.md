@@ -8,12 +8,12 @@
 ## 📸 Capturas de pantalla / Screenshots
 
 ### Main Menu
-> [Main Menu](docs/SOR2_MainMenu.jpg)
+
+![Main Menu](docs/SOR2_MainMenu.jpg)
 
 | Stage 1-1 | Stage 1-2 | Credits |
 |-----------|-----------|--------|
 | ![Stage 1-1](docs/SOR2_Stg_1-1.gif) | ![Stage 1-2](docs/SOR2_Stg_1-2.gif) | ![Credits](docs/SOR2_Credits.gif) |
-
 
 ---
 
