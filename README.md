@@ -11,7 +11,7 @@
 
 | Stage 1-1 | Stage 1-2 | Combat |
 |-----------|-----------|--------|
-| ![Stage 1-1](docs/screenshots/stage1-1.png) | ![Stage 1-2](docs/screenshots/stage1-2.png) | ![Combat](docs/screenshots/combat.png) |
+| ![Stage 1-1]([docs/screenshots/stage1-1.png](https://github.com/Prouly/StreetsOfRage2/blob/main/docs/SOR2_Stg_1-1.gif)) | ![Stage 1-2]([docs/screenshots/stage1-2.png](https://github.com/Prouly/StreetsOfRage2/blob/main/docs/SOR2_Stg_1-2.gif)) | ![Combat](docs/screenshots/combat.png) |
 
 > 📌 *Añadir GIF de gameplay aquí / Add gameplay GIF here*  
 > `![Gameplay GIF](docs/gifs/gameplay.gif)`
