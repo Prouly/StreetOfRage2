@@ -9,9 +9,9 @@
 
 > 📌 *Añadir capturas aquí / Add screenshots here*
 
-| Stage 1-1 | Stage 1-2 | Combat |
+| Stage 1-1 | Stage 1-2 | Credits |
 |-----------|-----------|--------|
-| ![Stage 1-1](docs/SOR2_Stg_1-1.gif) | ![Stage 1-2](docs/SOR2_Stg_1-2.gif) | ![Combat](docs/screenshots/combat.png) |
+| ![Stage 1-1](docs/SOR2_Stg_1-1.gif) | ![Stage 1-2](docs/SOR2_Stg_1-2.gif) | ![Credits](docs/SOR2_Credits.gif) |
 
 > 📌 *Añadir GIF de gameplay aquí / Add gameplay GIF here*  
 > `![Gameplay GIF](docs/gifs/gameplay.gif)`
